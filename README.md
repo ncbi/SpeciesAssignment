@@ -2,7 +2,7 @@
 ***
 This repo contains the source code and dataset for Species Assignment.
 
-Species assignment is the task of recognizing the corresponding species of the gene mentions, which is a very important step for Gene name normalization. While the existing methods of the corresponding species recognition are still heavily relying on the heuristic rules based on the co-occurrence of the gene and the species in the context. We therefore developed a high-accuracy method using a novel deep learning-based framework.
+Species assignment is the task of recognizing the corresponding species of the gene mentions, which is a very important step for Gene name normalization. While the existing methods of the corresponding species recognition are still heavily relying on the heuristic rules based on the co-occurrence of the gene and the species in the context. We therefore developed a high-accuracy method using a deep learning-based framework.
 
 
 ## Content
