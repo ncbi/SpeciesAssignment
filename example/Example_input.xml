@@ -1,0 +1,3129 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<collection>
+  <source>GNormPlus</source>
+  <date>2022-01-26</date>
+  <key>BioC.key</key>
+  <document>
+    <id>22495828</id>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Knockdown of cathepsin B and uPAR inhibits CD151 and a3b1 integrin-mediated cell adhesion and invasion in glioma.</text>
+      <annotation id="0">
+        <infon key="type">Gene</infon>
+        <location offset="13" length="11"/>
+        <text>cathepsin B</text>
+      </annotation>
+      <annotation id="1">
+        <infon key="type">Gene</infon>
+        <location offset="29" length="4"/>
+        <text>uPAR</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">Gene</infon>
+        <location offset="43" length="5"/>
+        <text>CD151</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">Gene</infon>
+        <location offset="54" length="3"/>
+        <text>3b1</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="type">Gene</infon>
+        <location offset="53" length="13"/>
+        <text>a3b1 integrin</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>114</offset>
+      <text>Glioma is a highly complex brain tumor characterized by the dysregulation of proteins and genes that leads to tumor metastasis. Cathepsin B and uPAR are overexpressed in gliomas and they are postulated to play central roles in glioma metastasis. In this study, efficient downregulation of cathepsin B and uPAR by siRNA treatments significantly reduced glioma cell adhesion to laminin as compared to vitronectin, fibronectin, or collagen I in U251 and 4910 glioma cell lines. Brain glioma tissue array analysis showed high expression of CD151 in clinical samples when compared with normal brain tissue. Cathepsin B and uPAR siRNA treatment led to the downregulation of CD151 and laminin-binding integrins a3 and b1. Co-immunoprecipitation experiments revealed that downregulation of cathepsin B and uPAR decreased the interaction of CD151 with uPAR cathepsin B, and a3b1 integrin. Studies on the downstream signaling cascade of uPAR/CD151/a3b1 integrin have shown that phosphorylation of FAK, SRC, paxillin, and expression of adaptor cytoskeletal proteins talin and vinculin were reduced with knockdown of cathepsin B, uPAR, and CD151. Treatment with the bicistronic construct reduced interactions between uPAR and CD151 as well as lowering a3b1 integrin, talin, and vinculin expression levels in pre-established glioma tumors of nude mice. In conclusion, our results show that downregulation of cathepsin B and uPAR alone and in combination inhibit glioma cell adhesion by downregulating CD151 and its associated signaling molecules in vitro and in vivo. Taken together, the results of the present study show that targeting the uPAR-cathepsin B system has possible therapeutic potential.</text>
+      <annotation id="5">
+        <infon key="type">Gene</infon>
+        <location offset="242" length="11"/>
+        <text>Cathepsin B</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="type">Gene</infon>
+        <location offset="258" length="4"/>
+        <text>uPAR</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="type">Gene</infon>
+        <location offset="403" length="11"/>
+        <text>cathepsin B</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="type">Gene</infon>
+        <location offset="419" length="4"/>
+        <text>uPAR</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="type">Gene</infon>
+        <location offset="513" length="11"/>
+        <text>vitronectin</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="type">Gene</infon>
+        <location offset="526" length="11"/>
+        <text>fibronectin</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="type">Gene</infon>
+        <location offset="650" length="5"/>
+        <text>CD151</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="type">Gene</infon>
+        <location offset="716" length="11"/>
+        <text>Cathepsin B</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="type">Gene</infon>
+        <location offset="732" length="4"/>
+        <text>uPAR</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="type">Gene</infon>
+        <location offset="782" length="5"/>
+        <text>CD151</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="type">Gene</infon>
+        <location offset="825" length="2"/>
+        <text>b1</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="type">Gene</infon>
+        <location offset="896" length="11"/>
+        <text>cathepsin B</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="type">Gene</infon>
+        <location offset="912" length="4"/>
+        <text>uPAR</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="type">Gene</infon>
+        <location offset="946" length="5"/>
+        <text>CD151</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="type">Gene</infon>
+        <location offset="962" length="11"/>
+        <text>cathepsin B</text>
+      </annotation>
+      <annotation id="20">
+        <infon key="type">Gene</infon>
+        <location offset="979" length="4"/>
+        <text>a3b1</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="type">Gene</infon>
+        <location offset="1041" length="4"/>
+        <text>uPAR</text>
+      </annotation>
+      <annotation id="22">
+        <infon key="type">Gene</infon>
+        <location offset="1046" length="10"/>
+        <text>CD151/a3b1</text>
+      </annotation>
+      <annotation id="23">
+        <infon key="type">Gene</infon>
+        <location offset="1101" length="3"/>
+        <text>FAK</text>
+      </annotation>
+      <annotation id="24">
+        <infon key="type">Gene</infon>
+        <location offset="1106" length="3"/>
+        <text>SRC</text>
+      </annotation>
+      <annotation id="25">
+        <infon key="type">Gene</infon>
+        <location offset="1111" length="8"/>
+        <text>paxillin</text>
+      </annotation>
+      <annotation id="26">
+        <infon key="type">FamilyName</infon>
+        <location offset="1139" length="29"/>
+        <text>adaptor cytoskeletal proteins</text>
+      </annotation>
+      <annotation id="27">
+        <infon key="type">Gene</infon>
+        <location offset="1169" length="5"/>
+        <text>talin</text>
+      </annotation>
+      <annotation id="28">
+        <infon key="type">Gene</infon>
+        <location offset="1179" length="8"/>
+        <text>vinculin</text>
+      </annotation>
+      <annotation id="29">
+        <infon key="type">Gene</infon>
+        <location offset="1219" length="11"/>
+        <text>cathepsin B</text>
+      </annotation>
+      <annotation id="30">
+        <infon key="type">Gene</infon>
+        <location offset="1232" length="4"/>
+        <text>uPAR</text>
+      </annotation>
+      <annotation id="31">
+        <infon key="type">Gene</infon>
+        <location offset="1242" length="5"/>
+        <text>CD151</text>
+      </annotation>
+      <annotation id="32">
+        <infon key="type">Gene</infon>
+        <location offset="1319" length="4"/>
+        <text>uPAR</text>
+      </annotation>
+      <annotation id="33">
+        <infon key="type">Gene</infon>
+        <location offset="1328" length="5"/>
+        <text>CD151</text>
+      </annotation>
+      <annotation id="34">
+        <infon key="type">Gene</infon>
+        <location offset="1354" length="13"/>
+        <text>a3b1 integrin</text>
+      </annotation>
+      <annotation id="35">
+        <infon key="type">Gene</infon>
+        <location offset="1369" length="5"/>
+        <text>talin</text>
+      </annotation>
+      <annotation id="36">
+        <infon key="type">Gene</infon>
+        <location offset="1380" length="8"/>
+        <text>vinculin</text>
+      </annotation>
+      <annotation id="37">
+        <infon key="type">Gene</infon>
+        <location offset="1509" length="11"/>
+        <text>cathepsin B</text>
+      </annotation>
+      <annotation id="38">
+        <infon key="type">Gene</infon>
+        <location offset="1525" length="4"/>
+        <text>uPAR</text>
+      </annotation>
+      <annotation id="39">
+        <infon key="type">Gene</infon>
+        <location offset="1602" length="5"/>
+        <text>CD151</text>
+      </annotation>
+      <annotation id="40">
+        <infon key="type">Gene</infon>
+        <location offset="1742" length="4"/>
+        <text>uPAR</text>
+      </annotation>
+      <annotation id="41">
+        <infon key="type">Gene</infon>
+        <location offset="1747" length="11"/>
+        <text>cathepsin B</text>
+      </annotation>
+      <annotation id="42">
+        <infon key="type">Gene</infon>
+        <location offset="957" length="4"/>
+        <text>uPAR</text>
+      </annotation>
+      <annotation id="43">
+        <infon key="Identifier">*10090</infon>
+        <infon key="type">Species</infon>
+        <location offset="1443" length="9"/>
+        <text>nude mice</text>
+      </annotation>
+      <annotation id="44">
+        <infon key="Identifier">*9606</infon>
+        <infon key="type">Cell</infon>
+        <location offset="556" length="4"/>
+        <text>U251</text>
+      </annotation>
+    </passage>
+  </document>
+  <document>
+    <id>23991091</id>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>MiR-155 has a protective role in the development of non-alcoholic hepatosteatosis in mice.</text>
+      <annotation id="0">
+        <infon key="type">Gene</infon>
+        <location offset="0" length="7"/>
+        <text>MiR-155</text>
+      </annotation>
+      <annotation id="1">
+        <infon key="Identifier">*10090</infon>
+        <infon key="type">Species</infon>
+        <location offset="85" length="4"/>
+        <text>mice</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>91</offset>
+      <text>Hepatic steatosis is a global epidemic that is thought to contribute to the pathogenesis of type 2 diabetes. MicroRNAs (miRs) are regulators that can functionally integrate a range of metabolic and inflammatory pathways in liver. We aimed to investigate the functional role of miR-155 in hepatic steatosis. Male C57BL/6 wild-type (WT) and miR-155(-/-) mice were fed either normal chow or high fat diet (HFD) for 6 months then lipid levels, metabolic and inflammatory parameters were assessed in livers and serum of the mice. Mice lacking endogenous miR-155 that were fed HFD for 6 months developed increased hepatic steatosis compared to WT controls. This was associated with increased liver weight and serum VLDL/LDL cholesterol and alanine transaminase (ALT) levels, as well as increased hepatic expression of genes involved in glucose regulation (Pck1, Cebpa), fatty acid uptake (Cd36) and lipid metabolism (Fasn, Fabp4, Lpl, Abcd2, Pla2g7). Using miRNA target prediction algorithms and the microarray transcriptomic profile of miR-155(-/-) livers, we identified and validated that Nr1h3 (LXRa) as a direct miR-155 target gene that is potentially responsible for the liver phenotype of miR-155(-/-) mice. Together these data indicate that miR-155 plays a pivotal role regulating lipid metabolism in liver and that its deregulation may lead to hepatic steatosis in patients with diabetes.</text>
+      <annotation id="2">
+        <infon key="type">Gene</infon>
+        <location offset="368" length="7"/>
+        <text>miR-155</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">Gene</infon>
+        <location offset="430" length="7"/>
+        <text>miR-155</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="type">Gene</infon>
+        <location offset="640" length="7"/>
+        <text>miR-155</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="type">Gene</infon>
+        <location offset="800" length="4"/>
+        <text>VLDL</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="type">FamilyName</infon>
+        <location offset="805" length="3"/>
+        <text>LDL</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="type">Gene</infon>
+        <location offset="825" length="20"/>
+        <text>alanine transaminase</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="type">Gene</infon>
+        <location offset="847" length="3"/>
+        <text>ALT</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="type">Gene</infon>
+        <location offset="941" length="4"/>
+        <text>Pck1</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="type">Gene</infon>
+        <location offset="947" length="5"/>
+        <text>Cebpa</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="type">Gene</infon>
+        <location offset="974" length="4"/>
+        <text>Cd36</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="type">Gene</infon>
+        <location offset="1002" length="4"/>
+        <text>Fasn</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="type">Gene</infon>
+        <location offset="1008" length="5"/>
+        <text>Fabp4</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="type">Gene</infon>
+        <location offset="1015" length="3"/>
+        <text>Lpl</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="type">Gene</infon>
+        <location offset="1020" length="5"/>
+        <text>Abcd2</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="type">Gene</infon>
+        <location offset="1027" length="6"/>
+        <text>Pla2g7</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="type">Gene</infon>
+        <location offset="1122" length="7"/>
+        <text>miR-155</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="type">Gene</infon>
+        <location offset="1176" length="5"/>
+        <text>Nr1h3</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="type">Gene</infon>
+        <location offset="1183" length="4"/>
+        <text>LXRa</text>
+      </annotation>
+      <annotation id="20">
+        <infon key="type">Gene</infon>
+        <location offset="1201" length="7"/>
+        <text>miR-155</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="type">Gene</infon>
+        <location offset="1280" length="7"/>
+        <text>miR-155</text>
+      </annotation>
+      <annotation id="22">
+        <infon key="type">Gene</infon>
+        <location offset="1333" length="7"/>
+        <text>miR-155</text>
+      </annotation>
+      <annotation id="23">
+        <infon key="Identifier">*10090</infon>
+        <infon key="type">Species</infon>
+        <location offset="443" length="4"/>
+        <text>mice</text>
+      </annotation>
+      <annotation id="24">
+        <infon key="Identifier">*10090</infon>
+        <infon key="type">Species</infon>
+        <location offset="610" length="4"/>
+        <text>mice</text>
+      </annotation>
+      <annotation id="25">
+        <infon key="Identifier">*10090</infon>
+        <infon key="type">Species</infon>
+        <location offset="616" length="4"/>
+        <text>Mice</text>
+      </annotation>
+      <annotation id="26">
+        <infon key="Identifier">*42374</infon>
+        <infon key="type">Species</infon>
+        <location offset="974" length="4"/>
+        <text>Cd36</text>
+      </annotation>
+      <annotation id="27">
+        <infon key="Identifier">*10090</infon>
+        <infon key="type">Species</infon>
+        <location offset="1293" length="4"/>
+        <text>mice</text>
+      </annotation>
+      <annotation id="28">
+        <infon key="Identifier">*9606</infon>
+        <infon key="type">Species</infon>
+        <location offset="1458" length="8"/>
+        <text>patients</text>
+      </annotation>
+    </passage>
+  </document>
+  <document>
+    <id>26590805</id>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>A-kinase anchor protein 4 (AKAP4) a promising therapeutic target of colorectal cancer.</text>
+      <annotation id="0">
+        <infon key="type">Gene</infon>
+        <location offset="0" length="25"/>
+        <text>A-kinase anchor protein 4</text>
+      </annotation>
+      <annotation id="1">
+        <infon key="type">Gene</infon>
+        <location offset="27" length="5"/>
+        <text>AKAP4</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>87</offset>
+      <text>BACKGROUND: Colorectal cancer (CRC) ranks third among the estimated cancer cases and cancer related mortalities in the Western world. Early detection and efficient therapy of CRC remains a major health challenge. Therefore, there is a need to identify novel tumor markers for early diagnosis and treatment of CRC. METHODS: A-kinase anchor protein 4 (AKAP4) gene and protein expression was monitored by quantitative polymerase chain reaction (qPCR), reverse transcription (RT)-PCR and Western blotting in normal colon tissue lysate, normal colon epithelial cells and in colon cancer cell lines viz., Caco-2, COLO205, COLO320DM, HCT-15, HCT116, HT-29, SW480, and SW620. The effect of AKAP4 on cellular growth, migration and invasion abilities was studied using gene silencing approach. The role of AKAP4 in various pathways involved in cell cycle, apoptosis, senescence was investigated in in vitro and in human xenograft mouse model. RESULTS: Our studies showed that AKAP4 gene and protein expression was expressed in all colon cancer cells while no expression was detectable in normal colon cells. Ablation of AKAP4 led to reduced cellular growth, migration, invasion and increased apoptosis and senescence of CRC cells in in vitro assays and tumor growth in human xenograft mouse. Human colon xenograft studies showed a significant decrease in the levels of cyclins B1, D and E and cyclin dependent kinases such as CDK1, CDK2, CDK4 and CDK6. Interestingly, an up-regulation in the levels of p16 and p21 was also observed. Besides, an increase in the levels of pro-apoptotic molecules AIF, APAF1, BAD, BID, BAK, BAX, PARP1, NOXA, PUMA and cyt-C and Caspase 3, 7, 8 and 9 was also found in cancer cells as well as in xenograft tissue sections. However, anti-apoptotic molecules BCL2, Bcl-xL, cIAP2, XIAP, Axin2 and Survivin were down regulated in these samples. Our data also revealed elevated expression of epithelial marker E-cadherin and down regulation of EMT markers N-cadherin, P-cadherin, SLUG, a-SMA, SNAIL, TWIST and Vimentin. Further ablation of AKAP4 resulted in the down regulation of invasion molecules matrix metalloproteinase MMP2, MMP3 and MMP9. CONCLUSION: AKAP4 appears to be a novel CRC-associated antigen with a potential for developing as a new clinical therapeutic target.</text>
+      <annotation id="2">
+        <infon key="type">Gene</infon>
+        <location offset="410" length="25"/>
+        <text>A-kinase anchor protein 4</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">Gene</infon>
+        <location offset="437" length="5"/>
+        <text>AKAP4</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="type">Gene</infon>
+        <location offset="694" length="7"/>
+        <text>COLO205</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="type">Gene</infon>
+        <location offset="703" length="9"/>
+        <text>COLO320DM</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="type">Gene</infon>
+        <location offset="748" length="5"/>
+        <text>SW620</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="type">Gene</infon>
+        <location offset="769" length="5"/>
+        <text>AKAP4</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="type">Gene</infon>
+        <location offset="883" length="5"/>
+        <text>AKAP4</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="type">Gene</infon>
+        <location offset="1053" length="5"/>
+        <text>AKAP4</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="type">Gene</infon>
+        <location offset="1197" length="5"/>
+        <text>AKAP4</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="type">Gene</infon>
+        <location offset="1446" length="19"/>
+        <text>cyclins B1, D and E</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="type">FamilyName</infon>
+        <location offset="1470" length="24"/>
+        <text>cyclin dependent kinases</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="type">Gene</infon>
+        <location offset="1503" length="4"/>
+        <text>CDK1</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="type">Gene</infon>
+        <location offset="1509" length="4"/>
+        <text>CDK2</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="type">Gene</infon>
+        <location offset="1515" length="4"/>
+        <text>CDK4</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="type">Gene</infon>
+        <location offset="1524" length="4"/>
+        <text>CDK6</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="type">Gene</infon>
+        <location offset="1579" length="3"/>
+        <text>p16</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="type">Gene</infon>
+        <location offset="1587" length="3"/>
+        <text>p21</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="type">Gene</infon>
+        <location offset="1672" length="3"/>
+        <text>AIF</text>
+      </annotation>
+      <annotation id="20">
+        <infon key="type">Gene</infon>
+        <location offset="1677" length="5"/>
+        <text>APAF1</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="type">Gene</infon>
+        <location offset="1684" length="3"/>
+        <text>BAD</text>
+      </annotation>
+      <annotation id="22">
+        <infon key="type">Gene</infon>
+        <location offset="1689" length="3"/>
+        <text>BID</text>
+      </annotation>
+      <annotation id="23">
+        <infon key="type">Gene</infon>
+        <location offset="1694" length="3"/>
+        <text>BAK</text>
+      </annotation>
+      <annotation id="24">
+        <infon key="type">Gene</infon>
+        <location offset="1699" length="3"/>
+        <text>BAX</text>
+      </annotation>
+      <annotation id="25">
+        <infon key="type">Gene</infon>
+        <location offset="1704" length="5"/>
+        <text>PARP1</text>
+      </annotation>
+      <annotation id="26">
+        <infon key="type">Gene</infon>
+        <location offset="1711" length="4"/>
+        <text>NOXA</text>
+      </annotation>
+      <annotation id="27">
+        <infon key="type">Gene</infon>
+        <location offset="1717" length="4"/>
+        <text>PUMA</text>
+      </annotation>
+      <annotation id="28">
+        <infon key="type">Gene</infon>
+        <location offset="1726" length="5"/>
+        <text>cyt-C</text>
+      </annotation>
+      <annotation id="29">
+        <infon key="type">Gene</infon>
+        <location offset="1736" length="21"/>
+        <text>Caspase 3, 7, 8 and 9</text>
+      </annotation>
+      <annotation id="30">
+        <infon key="type">Gene</infon>
+        <location offset="1864" length="4"/>
+        <text>BCL2</text>
+      </annotation>
+      <annotation id="31">
+        <infon key="type">Gene</infon>
+        <location offset="1870" length="6"/>
+        <text>Bcl-xL</text>
+      </annotation>
+      <annotation id="32">
+        <infon key="type">Gene</infon>
+        <location offset="1878" length="5"/>
+        <text>cIAP2</text>
+      </annotation>
+      <annotation id="33">
+        <infon key="type">Gene</infon>
+        <location offset="1885" length="4"/>
+        <text>XIAP</text>
+      </annotation>
+      <annotation id="34">
+        <infon key="type">Gene</infon>
+        <location offset="1891" length="5"/>
+        <text>Axin2</text>
+      </annotation>
+      <annotation id="35">
+        <infon key="type">Gene</infon>
+        <location offset="1901" length="8"/>
+        <text>Survivin</text>
+      </annotation>
+      <annotation id="36">
+        <infon key="type">Gene</infon>
+        <location offset="2012" length="10"/>
+        <text>E-cadherin</text>
+      </annotation>
+      <annotation id="37">
+        <infon key="type">Gene</infon>
+        <location offset="2058" length="10"/>
+        <text>N-cadherin</text>
+      </annotation>
+      <annotation id="38">
+        <infon key="type">Gene</infon>
+        <location offset="2070" length="10"/>
+        <text>P-cadherin</text>
+      </annotation>
+      <annotation id="39">
+        <infon key="type">Gene</infon>
+        <location offset="2082" length="4"/>
+        <text>SLUG</text>
+      </annotation>
+      <annotation id="40">
+        <infon key="type">Gene</infon>
+        <location offset="2088" length="5"/>
+        <text>a-SMA</text>
+      </annotation>
+      <annotation id="41">
+        <infon key="type">Gene</infon>
+        <location offset="2095" length="5"/>
+        <text>SNAIL</text>
+      </annotation>
+      <annotation id="42">
+        <infon key="type">Gene</infon>
+        <location offset="2102" length="5"/>
+        <text>TWIST</text>
+      </annotation>
+      <annotation id="43">
+        <infon key="type">Gene</infon>
+        <location offset="2112" length="8"/>
+        <text>Vimentin</text>
+      </annotation>
+      <annotation id="44">
+        <infon key="type">Gene</infon>
+        <location offset="2142" length="5"/>
+        <text>AKAP4</text>
+      </annotation>
+      <annotation id="45">
+        <infon key="type">FamilyName</infon>
+        <location offset="2202" length="24"/>
+        <text>matrix metalloproteinase</text>
+      </annotation>
+      <annotation id="46">
+        <infon key="type">Gene</infon>
+        <location offset="2227" length="4"/>
+        <text>MMP2</text>
+      </annotation>
+      <annotation id="47">
+        <infon key="type">Gene</infon>
+        <location offset="2233" length="4"/>
+        <text>MMP3</text>
+      </annotation>
+      <annotation id="48">
+        <infon key="type">Gene</infon>
+        <location offset="2242" length="4"/>
+        <text>MMP9</text>
+      </annotation>
+      <annotation id="49">
+        <infon key="type">Gene</infon>
+        <location offset="2260" length="5"/>
+        <text>AKAP4</text>
+      </annotation>
+      <annotation id="50">
+        <infon key="type">FamilyName</infon>
+        <location offset="2288" length="3"/>
+        <text>CRC</text>
+      </annotation>
+      <annotation id="51">
+        <infon key="type">Gene</infon>
+        <location offset="737" length="5"/>
+        <text>SW480</text>
+      </annotation>
+      <annotation id="52">
+        <infon key="type">FamilyName</infon>
+        <location offset="1297" length="3"/>
+        <text>CRC</text>
+      </annotation>
+      <annotation id="53">
+        <infon key="type">FamilyName</infon>
+        <location offset="396" length="3"/>
+        <text>CRC</text>
+      </annotation>
+      <annotation id="54">
+        <infon key="type">FamilyName</infon>
+        <location offset="262" length="3"/>
+        <text>CRC</text>
+      </annotation>
+      <annotation id="55">
+        <infon key="type">FamilyName</infon>
+        <location offset="118" length="3"/>
+        <text>CRC</text>
+      </annotation>
+      <annotation id="56">
+        <infon key="Identifier">*9606</infon>
+        <infon key="type">Species</infon>
+        <location offset="991" length="5"/>
+        <text>human</text>
+      </annotation>
+      <annotation id="57">
+        <infon key="Identifier">*10090</infon>
+        <infon key="type">Species</infon>
+        <location offset="1007" length="5"/>
+        <text>mouse</text>
+      </annotation>
+      <annotation id="58">
+        <infon key="Identifier">*9606</infon>
+        <infon key="type">Species</infon>
+        <location offset="1346" length="5"/>
+        <text>human</text>
+      </annotation>
+      <annotation id="59">
+        <infon key="Identifier">*10090</infon>
+        <infon key="type">Species</infon>
+        <location offset="1362" length="5"/>
+        <text>mouse</text>
+      </annotation>
+      <annotation id="60">
+        <infon key="Identifier">*9606</infon>
+        <infon key="type">Species</infon>
+        <location offset="1369" length="5"/>
+        <text>Human</text>
+      </annotation>
+    </passage>
+  </document>
+  <document>
+    <id>23374751</id>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>MyD88 is crucial for the development of a protective CNS immune response to Toxoplasma gondii infection.</text>
+      <annotation id="0">
+        <infon key="type">Gene</infon>
+        <location offset="0" length="5"/>
+        <text>MyD88</text>
+      </annotation>
+      <annotation id="1">
+        <infon key="Identifier">*5811</infon>
+        <infon key="type">Species</infon>
+        <location offset="76" length="17"/>
+        <text>Toxoplasma gondii</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>105</offset>
+      <text>BACKGROUND: Toxoplasmosis is one of the most common parasitic infections in humans. It can establish chronic infection and is characterized by the formation of tissue cysts in the brain. The cysts remain largely quiescent for the life of the host, but can reactivate and cause life-threatening toxoplasmic encephalitis in immunocompromised patients, such as those with AIDS, neoplastic diseases and organ transplants. Toll-like receptor (TLR) adaptor MyD88 activation is required for the innate sensing of Toxoplasma gondii. Mice deficient in MyD88 have defective IL-12 and Th1 effector responses, and are highly susceptible to the acute phase of T. gondii infection. However, the role of this signaling pathway during cerebral infection is poorly understood and requires examination. METHOD: MyD88-deficient mice and control mice were orally infected with T. gondii cysts. Cellular and parasite infiltration in the peripheral organs and in the brain were determined by histology and immunohistochemistry. Cytokine levels were determined by ELISA and chemokine mRNA levels were quantified by real-time PCR (qPCR). RESULTS: Thirteen days after infection, a higher parasite burden was observed but there was no histological change in the liver, heart, lungs and small intestine of MyD88-/- and MyD88+/+ mice. However, MyD88-/- mice compared to MyD88+/+ mice were highly susceptible to cerebral infection, displayed high parasite migration to the brain, severe neuropathological signs of encephalitis and succumbed within 2 weeks of oral infection. Susceptibility was primarily associated with lower expression of Th1 cytokines, especially IL-12, IFN-g and TNF-a, significant decrease in the expression of CCL3, CCL5, CCL7 and CCL19 chemokines, marked defect of CD8+ T cells, and infiltration of CD11b+ and F4/80+ cells in the brain. CONCLUSION: MyD88 is essential for the protection of mice during the cerebral installation of T. gondii infection. These results establish a role for MyD88 in T cell-mediated control of T. gondii in the central nervous system (CNS).</text>
+      <annotation id="2">
+        <infon key="type">FamilyName</infon>
+        <location offset="523" length="18"/>
+        <text>Toll-like receptor</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">FamilyName</infon>
+        <location offset="543" length="3"/>
+        <text>TLR</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="type">Gene</infon>
+        <location offset="556" length="5"/>
+        <text>MyD88</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="type">Gene</infon>
+        <location offset="648" length="5"/>
+        <text>MyD88</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="type">FamilyName</infon>
+        <location offset="669" length="5"/>
+        <text>IL-12</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="type">Gene</infon>
+        <location offset="898" length="5"/>
+        <text>MyD88</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="type">Gene</infon>
+        <location offset="1384" length="5"/>
+        <text>MyD88</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="type">Gene</infon>
+        <location offset="1397" length="5"/>
+        <text>MyD88</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="type">Gene</infon>
+        <location offset="1421" length="5"/>
+        <text>MyD88</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="type">Gene</infon>
+        <location offset="1447" length="5"/>
+        <text>MyD88</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="type">FamilyName</infon>
+        <location offset="1720" length="9"/>
+        <text>cytokines</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="type">FamilyName</infon>
+        <location offset="1742" length="5"/>
+        <text>IL-12</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="type">Gene</infon>
+        <location offset="1749" length="5"/>
+        <text>IFN-g</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="type">Gene</infon>
+        <location offset="1759" length="5"/>
+        <text>TNF-a</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="type">Gene</infon>
+        <location offset="1808" length="4"/>
+        <text>CCL3</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="type">Gene</infon>
+        <location offset="1814" length="4"/>
+        <text>CCL5</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="type">Gene</infon>
+        <location offset="1820" length="4"/>
+        <text>CCL7</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="type">Gene</infon>
+        <location offset="1829" length="5"/>
+        <text>CCL19</text>
+      </annotation>
+      <annotation id="20">
+        <infon key="type">FamilyName</infon>
+        <location offset="1864" length="3"/>
+        <text>CD8</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="type">Gene</infon>
+        <location offset="1898" length="5"/>
+        <text>CD11b</text>
+      </annotation>
+      <annotation id="22">
+        <infon key="type">Gene</infon>
+        <location offset="1909" length="5"/>
+        <text>F4/80</text>
+      </annotation>
+      <annotation id="23">
+        <infon key="type">Gene</infon>
+        <location offset="1948" length="5"/>
+        <text>MyD88</text>
+      </annotation>
+      <annotation id="24">
+        <infon key="type">Gene</infon>
+        <location offset="2086" length="5"/>
+        <text>MyD88</text>
+      </annotation>
+      <annotation id="25">
+        <infon key="type">FamilyName</infon>
+        <location offset="1111" length="8"/>
+        <text>Cytokine</text>
+      </annotation>
+      <annotation id="26">
+        <infon key="Identifier">*9606</infon>
+        <infon key="type">Species</infon>
+        <location offset="181" length="6"/>
+        <text>humans</text>
+      </annotation>
+      <annotation id="27">
+        <infon key="Identifier">*9606</infon>
+        <infon key="type">Species</infon>
+        <location offset="445" length="8"/>
+        <text>patients</text>
+      </annotation>
+      <annotation id="28">
+        <infon key="Identifier">*5811</infon>
+        <infon key="type">Species</infon>
+        <location offset="611" length="17"/>
+        <text>Toxoplasma gondii</text>
+      </annotation>
+      <annotation id="29">
+        <infon key="Identifier">*10090</infon>
+        <infon key="type">Species</infon>
+        <location offset="630" length="4"/>
+        <text>Mice</text>
+      </annotation>
+      <annotation id="30">
+        <infon key="Identifier">*5811</infon>
+        <infon key="type">Species</infon>
+        <location offset="752" length="9"/>
+        <text>T. gondii</text>
+      </annotation>
+      <annotation id="31">
+        <infon key="Identifier">*10090</infon>
+        <infon key="type">Species</infon>
+        <location offset="914" length="4"/>
+        <text>mice</text>
+      </annotation>
+      <annotation id="32">
+        <infon key="Identifier">*10090</infon>
+        <infon key="type">Species</infon>
+        <location offset="931" length="4"/>
+        <text>mice</text>
+      </annotation>
+      <annotation id="33">
+        <infon key="Identifier">*5811</infon>
+        <infon key="type">Species</infon>
+        <location offset="962" length="9"/>
+        <text>T. gondii</text>
+      </annotation>
+      <annotation id="34">
+        <infon key="Identifier">*10090</infon>
+        <infon key="type">Species</infon>
+        <location offset="1406" length="4"/>
+        <text>mice</text>
+      </annotation>
+      <annotation id="35">
+        <infon key="Identifier">*10090</infon>
+        <infon key="type">Species</infon>
+        <location offset="1430" length="4"/>
+        <text>mice</text>
+      </annotation>
+      <annotation id="36">
+        <infon key="Identifier">*10090</infon>
+        <infon key="type">Species</infon>
+        <location offset="1456" length="4"/>
+        <text>mice</text>
+      </annotation>
+      <annotation id="37">
+        <infon key="Identifier">*10090</infon>
+        <infon key="type">Species</infon>
+        <location offset="1989" length="4"/>
+        <text>mice</text>
+      </annotation>
+      <annotation id="38">
+        <infon key="Identifier">*5811</infon>
+        <infon key="type">Species</infon>
+        <location offset="2030" length="9"/>
+        <text>T. gondii</text>
+      </annotation>
+      <annotation id="39">
+        <infon key="Identifier">*5811</infon>
+        <infon key="type">Species</infon>
+        <location offset="2122" length="9"/>
+        <text>T. gondii</text>
+      </annotation>
+      <annotation id="40">
+        <infon key="Identifier">*9606</infon>
+        <infon key="type">Cell</infon>
+        <location offset="1898" length="4"/>
+        <text>CD11</text>
+      </annotation>
+      <annotation id="41">
+        <infon key="Identifier">*10090</infon>
+        <infon key="type">Cell</infon>
+        <location offset="1909" length="5"/>
+        <text>F4/80</text>
+      </annotation>
+    </passage>
+  </document>
+  <document>
+    <id>26971998</id>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>The Innate Immune Receptor NLRX1 Functions as a Tumor Suppressor by Reducing Colon Tumorigenesis and Key Tumor-Promoting Signals.</text>
+      <annotation id="0">
+        <infon key="type">Gene</infon>
+        <location offset="27" length="5"/>
+        <text>NLRX1</text>
+      </annotation>
+      <annotation id="1">
+        <infon key="type">FamilyName</infon>
+        <location offset="48" length="16"/>
+        <text>Tumor Suppressor</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">FamilyName</infon>
+        <location offset="4" length="22"/>
+        <text>Innate Immune Receptor</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>130</offset>
+      <text>NOD-like receptor (NLR) proteins are intracellular innate immune sensors/receptors that regulate immunity. This work shows that NLRX1 serves as a tumor suppressor in colitis-associated cancer (CAC) and sporadic colon cancer by keeping key tumor promoting pathways in check. Nlrx1(-/-) mice were highly susceptible to CAC, showing increases in key cancer-promoting pathways including nuclear factor kB (NF-kB), mitogen-activated protein kinase (MAPK), signal transducer and activator of transcription 3 (STAT3), and interleukin 6 (IL-6). The tumor-suppressive function of NLRX1 originated primarily from the non-hematopoietic compartment. This prompted an analysis of NLRX1 function in the Apc(min/+) genetic model of sporadic gastrointestinal cancer. NLRX1 attenuated Apc(min/+) colon tumorigenesis, cellular proliferation, NF-kB, MAPK, STAT3 activation, and IL-6 levels. Application of anti-interleukin 6 receptor (IL6R) antibody therapy reduced tumor burden, increased survival, and reduced STAT3 activation in Nlrx1(-/-)Apc(min/+) mice. As an important clinical correlate, human colon cancer samples expressed lower levels of NLRX1 than healthy controls in multiple patient cohorts. These data implicate anti-IL6R as a potential personalized therapy for colon cancers with reduced NLRX1.</text>
+      <annotation id="3">
+        <infon key="type">FamilyName</infon>
+        <location offset="130" length="17"/>
+        <text>NOD-like receptor</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="type">FamilyName</infon>
+        <location offset="149" length="3"/>
+        <text>NLR</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="type">Gene</infon>
+        <location offset="258" length="5"/>
+        <text>NLRX1</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="type">Gene</infon>
+        <location offset="404" length="5"/>
+        <text>Nlrx1</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="type">Gene</infon>
+        <location offset="513" length="17"/>
+        <text>nuclear factor kB</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="type">Gene</infon>
+        <location offset="532" length="5"/>
+        <text>NF-kB</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="type">Gene</infon>
+        <location offset="540" length="32"/>
+        <text>mitogen-activated protein kinase</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="type">Gene</infon>
+        <location offset="574" length="4"/>
+        <text>MAPK</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="type">Gene</infon>
+        <location offset="581" length="50"/>
+        <text>signal transducer and activator of transcription 3</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="type">Gene</infon>
+        <location offset="633" length="5"/>
+        <text>STAT3</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="type">Gene</infon>
+        <location offset="645" length="13"/>
+        <text>interleukin 6</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="type">Gene</infon>
+        <location offset="660" length="4"/>
+        <text>IL-6</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="type">Gene</infon>
+        <location offset="701" length="5"/>
+        <text>NLRX1</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="type">Gene</infon>
+        <location offset="797" length="5"/>
+        <text>NLRX1</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="type">Gene</infon>
+        <location offset="819" length="3"/>
+        <text>Apc</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="type">Gene</infon>
+        <location offset="881" length="5"/>
+        <text>NLRX1</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="type">Gene</infon>
+        <location offset="898" length="3"/>
+        <text>Apc</text>
+      </annotation>
+      <annotation id="20">
+        <infon key="type">Gene</infon>
+        <location offset="954" length="5"/>
+        <text>NF-kB</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="type">Gene</infon>
+        <location offset="961" length="4"/>
+        <text>MAPK</text>
+      </annotation>
+      <annotation id="22">
+        <infon key="type">Gene</infon>
+        <location offset="967" length="5"/>
+        <text>STAT3</text>
+      </annotation>
+      <annotation id="23">
+        <infon key="type">Gene</infon>
+        <location offset="989" length="4"/>
+        <text>IL-6</text>
+      </annotation>
+      <annotation id="24">
+        <infon key="type">Gene</infon>
+        <location offset="1017" length="27"/>
+        <text>anti-interleukin 6 receptor</text>
+      </annotation>
+      <annotation id="25">
+        <infon key="type">Gene</infon>
+        <location offset="1046" length="4"/>
+        <text>IL6R</text>
+      </annotation>
+      <annotation id="26">
+        <infon key="type">Gene</infon>
+        <location offset="1123" length="5"/>
+        <text>STAT3</text>
+      </annotation>
+      <annotation id="27">
+        <infon key="type">Gene</infon>
+        <location offset="1143" length="5"/>
+        <text>Nlrx1</text>
+      </annotation>
+      <annotation id="28">
+        <infon key="type">Gene</infon>
+        <location offset="1153" length="3"/>
+        <text>Apc</text>
+      </annotation>
+      <annotation id="29">
+        <infon key="type">Gene</infon>
+        <location offset="1259" length="5"/>
+        <text>NLRX1</text>
+      </annotation>
+      <annotation id="30">
+        <infon key="type">Gene</infon>
+        <location offset="1342" length="4"/>
+        <text>IL6R</text>
+      </annotation>
+      <annotation id="31">
+        <infon key="type">Gene</infon>
+        <location offset="1414" length="5"/>
+        <text>NLRX1</text>
+      </annotation>
+      <annotation id="32">
+        <infon key="type">FamilyName</infon>
+        <location offset="276" length="16"/>
+        <text>tumor suppressor</text>
+      </annotation>
+      <annotation id="33">
+        <infon key="Identifier">*10090</infon>
+        <infon key="type">Species</infon>
+        <location offset="415" length="4"/>
+        <text>mice</text>
+      </annotation>
+      <annotation id="34">
+        <infon key="Identifier">*10090</infon>
+        <infon key="type">Species</infon>
+        <location offset="1164" length="4"/>
+        <text>mice</text>
+      </annotation>
+      <annotation id="35">
+        <infon key="Identifier">*9606</infon>
+        <infon key="type">Species</infon>
+        <location offset="1206" length="5"/>
+        <text>human</text>
+      </annotation>
+      <annotation id="36">
+        <infon key="Identifier">*9606</infon>
+        <infon key="type">Species</infon>
+        <location offset="1299" length="7"/>
+        <text>patient</text>
+      </annotation>
+    </passage>
+  </document>
+  <document>
+    <id>30202097</id>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Loss of solute carrier family 7 member 2 exacerbates inflammation-associated colon tumorigenesis.</text>
+      <annotation id="0">
+        <infon key="type">Gene</infon>
+        <location offset="8" length="32"/>
+        <text>solute carrier family 7 member 2</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>98</offset>
+      <text>Solute carrier family 7 member 2 (SLC7A2, also known as CAT2) is an inducible transporter of the semi-essential amino acid L-arginine (L-Arg), which has been implicated in wound repair. We have reported that both SLC7A2 expression and L-Arg availability are decreased in colonic tissues from inflammatory bowel disease patients and that mice lacking Slc7a2 exhibit a more severe disease course when exposed to dextran sulfate sodium (DSS) compared to wild-type (WT) mice. Here, we present evidence that SLC7A2 plays a role in modulating colon tumorigenesis in the azoxymethane (AOM)-DSS model of colitis-associated carcinogenesis (CAC). SLC7A2 was localized predominantly to colonic epithelial cells in WT mice. Utilizing the AOM-DSS model, Slc7a2-/- mice had significantly increased tumor number, burden, and risk of high-grade dysplasia vs. WT mice. Tumors from Slc7a2-/- mice exhibited significantly increased levels of the proinflammatory cytokines/chemokines IL-1beta, CXCL1, CXCL5, IL-3, CXCL2, CCL3, and CCL4, but decreased levels of IL-4, CXCL9, and CXCL10 compared to tumors from WT mice. This was accompanied by a shift toward pro-tumorigenic M2 macrophage activation in Slc7a2-deficient mice, as marked by increased colonic CD11b+F4/80+ARG1+ cells with no alteration in CD11b+F4/80+NOS2+ cells by flow cytometry and immunofluorescence microscopy. The shift toward M2 macrophage activation was confirmed in bone marrow-derived macrophages from Slc7a2-/- mice. In bone marrow chimeras between Slc7a2-/- and WT mice, the recipient genotype drove the CAC phenotype, suggesting the importance of epithelial SLC7A2 in abrogating neoplastic risk. These data reveal that SLC7A2 has a significant role in the protection from CAC in the setting of chronic colitis, and suggest that the decreased SLC7A2 in inflammatory bowel disease (IBD) may contribute to CAC risk. Strategies to enhance L-Arg availability by supplementing L-Arg and/or increasing L-Arg uptake could represent a therapeutic approach in IBD to reduce the substantial long-term risk of colorectal carcinoma.</text>
+      <annotation id="1">
+        <infon key="type">Gene</infon>
+        <location offset="98" length="32"/>
+        <text>Solute carrier family 7 member 2</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">Gene</infon>
+        <location offset="132" length="6"/>
+        <text>SLC7A2</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">Gene</infon>
+        <location offset="154" length="4"/>
+        <text>CAT2</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="type">Gene</infon>
+        <location offset="311" length="6"/>
+        <text>SLC7A2</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="type">Gene</infon>
+        <location offset="448" length="6"/>
+        <text>Slc7a2</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="type">Gene</infon>
+        <location offset="601" length="6"/>
+        <text>SLC7A2</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="type">Gene</infon>
+        <location offset="735" length="6"/>
+        <text>SLC7A2</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="type">Gene</infon>
+        <location offset="839" length="6"/>
+        <text>Slc7a2</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="type">Gene</infon>
+        <location offset="962" length="6"/>
+        <text>Slc7a2</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="type">Gene</infon>
+        <location offset="1041" length="9"/>
+        <text>cytokines</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="type">Gene</infon>
+        <location offset="1051" length="10"/>
+        <text>chemokines</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="type">Gene</infon>
+        <location offset="1062" length="8"/>
+        <text>IL-1beta</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="type">Gene</infon>
+        <location offset="1072" length="5"/>
+        <text>CXCL1</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="type">Gene</infon>
+        <location offset="1079" length="5"/>
+        <text>CXCL5</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="type">Gene</infon>
+        <location offset="1086" length="4"/>
+        <text>IL-3</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="type">Gene</infon>
+        <location offset="1092" length="5"/>
+        <text>CXCL2</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="type">Gene</infon>
+        <location offset="1099" length="4"/>
+        <text>CCL3</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="type">Gene</infon>
+        <location offset="1109" length="4"/>
+        <text>CCL4</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="type">Gene</infon>
+        <location offset="1139" length="4"/>
+        <text>IL-4</text>
+      </annotation>
+      <annotation id="20">
+        <infon key="type">Gene</infon>
+        <location offset="1145" length="5"/>
+        <text>CXCL9</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="type">Gene</infon>
+        <location offset="1156" length="6"/>
+        <text>CXCL10</text>
+      </annotation>
+      <annotation id="22">
+        <infon key="type">Gene</infon>
+        <location offset="1279" length="6"/>
+        <text>Slc7a2</text>
+      </annotation>
+      <annotation id="23">
+        <infon key="type">Gene</infon>
+        <location offset="1333" length="5"/>
+        <text>CD11b</text>
+      </annotation>
+      <annotation id="24">
+        <infon key="type">Gene</infon>
+        <location offset="1339" length="5"/>
+        <text>F4/80</text>
+      </annotation>
+      <annotation id="25">
+        <infon key="type">Gene</infon>
+        <location offset="1345" length="4"/>
+        <text>ARG1</text>
+      </annotation>
+      <annotation id="26">
+        <infon key="type">Gene</infon>
+        <location offset="1379" length="5"/>
+        <text>CD11b</text>
+      </annotation>
+      <annotation id="27">
+        <infon key="type">Gene</infon>
+        <location offset="1385" length="5"/>
+        <text>F4/80</text>
+      </annotation>
+      <annotation id="28">
+        <infon key="type">Gene</infon>
+        <location offset="1391" length="4"/>
+        <text>NOS2</text>
+      </annotation>
+      <annotation id="29">
+        <infon key="type">Gene</infon>
+        <location offset="1552" length="6"/>
+        <text>Slc7a2</text>
+      </annotation>
+      <annotation id="30">
+        <infon key="type">Gene</infon>
+        <location offset="1600" length="6"/>
+        <text>Slc7a2</text>
+      </annotation>
+      <annotation id="31">
+        <infon key="type">Gene</infon>
+        <location offset="1711" length="6"/>
+        <text>SLC7A2</text>
+      </annotation>
+      <annotation id="32">
+        <infon key="type">Gene</infon>
+        <location offset="1772" length="6"/>
+        <text>SLC7A2</text>
+      </annotation>
+      <annotation id="33">
+        <infon key="type">Gene</infon>
+        <location offset="1895" length="6"/>
+        <text>SLC7A2</text>
+      </annotation>
+      <annotation id="34">
+        <infon key="type">Gene</infon>
+        <location offset="1041" length="9"/>
+        <text>cytokines</text>
+      </annotation>
+      <annotation id="35">
+        <infon key="Identifier">*9606</infon>
+        <infon key="type">Species</infon>
+        <location offset="417" length="8"/>
+        <text>patients</text>
+      </annotation>
+      <annotation id="36">
+        <infon key="Identifier">*10090</infon>
+        <infon key="type">Species</infon>
+        <location offset="435" length="4"/>
+        <text>mice</text>
+      </annotation>
+      <annotation id="37">
+        <infon key="Identifier">*10090</infon>
+        <infon key="type">Species</infon>
+        <location offset="564" length="4"/>
+        <text>mice</text>
+      </annotation>
+      <annotation id="38">
+        <infon key="Identifier">*10090</infon>
+        <infon key="type">Species</infon>
+        <location offset="804" length="4"/>
+        <text>mice</text>
+      </annotation>
+      <annotation id="39">
+        <infon key="Identifier">*10090</infon>
+        <infon key="type">Species</infon>
+        <location offset="849" length="4"/>
+        <text>mice</text>
+      </annotation>
+      <annotation id="40">
+        <infon key="Identifier">*10090</infon>
+        <infon key="type">Species</infon>
+        <location offset="944" length="4"/>
+        <text>mice</text>
+      </annotation>
+      <annotation id="41">
+        <infon key="Identifier">*10090</infon>
+        <infon key="type">Species</infon>
+        <location offset="972" length="4"/>
+        <text>mice</text>
+      </annotation>
+      <annotation id="42">
+        <infon key="Identifier">*10090</infon>
+        <infon key="type">Species</infon>
+        <location offset="1190" length="4"/>
+        <text>mice</text>
+      </annotation>
+      <annotation id="43">
+        <infon key="Identifier">*10090</infon>
+        <infon key="type">Species</infon>
+        <location offset="1296" length="4"/>
+        <text>mice</text>
+      </annotation>
+      <annotation id="44">
+        <infon key="Identifier">*10090</infon>
+        <infon key="type">Species</infon>
+        <location offset="1562" length="4"/>
+        <text>mice</text>
+      </annotation>
+      <annotation id="45">
+        <infon key="Identifier">*10090</infon>
+        <infon key="type">Species</infon>
+        <location offset="1617" length="4"/>
+        <text>mice</text>
+      </annotation>
+      <annotation id="46">
+        <infon key="Identifier">*9606</infon>
+        <infon key="type">Cell</infon>
+        <location offset="1333" length="4"/>
+        <text>CD11</text>
+      </annotation>
+      <annotation id="47">
+        <infon key="Identifier">*10090</infon>
+        <infon key="type">Cell</infon>
+        <location offset="1339" length="5"/>
+        <text>F4/80</text>
+      </annotation>
+      <annotation id="48">
+        <infon key="Identifier">*9606</infon>
+        <infon key="type">Cell</infon>
+        <location offset="1379" length="4"/>
+        <text>CD11</text>
+      </annotation>
+      <annotation id="49">
+        <infon key="Identifier">*10090</infon>
+        <infon key="type">Cell</infon>
+        <location offset="1385" length="5"/>
+        <text>F4/80</text>
+      </annotation>
+    </passage>
+  </document>
+  <document>
+    <id>28273463</id>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Reversal of DDK-Mediated MCM Phosphorylation by Rif1-PP1 Regulates Replication Initiation and Replisome Stability Independently of ATR/Chk1.</text>
+      <annotation id="0">
+        <infon key="type">Gene</infon>
+        <location offset="48" length="4"/>
+        <text>Rif1</text>
+      </annotation>
+      <annotation id="1">
+        <infon key="type">Gene</infon>
+        <location offset="53" length="3"/>
+        <text>PP1</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">Gene</infon>
+        <location offset="131" length="3"/>
+        <text>ATR</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">Gene</infon>
+        <location offset="135" length="4"/>
+        <text>Chk1</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="type">FamilyName</infon>
+        <location offset="12" length="3"/>
+        <text>DDK</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="type">Gene</infon>
+        <location offset="25" length="3"/>
+        <text>MCM</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>141</offset>
+      <text>Dbf4-dependent kinases (DDKs) are required for the initiation of DNA replication, their essential targets being the MCM2-7 proteins. We show that, in Xenopus laevis egg extracts and human cells, hyper-phosphorylation of DNA-bound Mcm4, but not phosphorylation of Mcm2, correlates with DNA replication. These phosphorylations are differentially affected by the DDK inhibitors PHA-767491 and XL413. We show that DDK-dependent MCM phosphorylation is reversed by protein phosphatase 1 (PP1) targeted to chromatin by Rif1. Loss of Rif1 increased MCM phosphorylation and the rate of replication initiation and also compromised the ability of cells to block initiation when challenged with replication inhibitors. We also provide evidence that Rif1 can mediate MCM dephosphorylation at replication forks and that the stability of dephosphorylated replisomes strongly depends on Chk1 activity. We propose that both replication initiation and replisome stability depend on MCM phosphorylation, which is maintained by a balance of DDK-dependent phosphorylation and Rif1-mediated dephosphorylation.</text>
+      <annotation id="6">
+        <infon key="type">FamilyName</infon>
+        <location offset="141" length="22"/>
+        <text>Dbf4-dependent kinases</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="type">FamilyName</infon>
+        <location offset="165" length="4"/>
+        <text>DDKs</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="type">Gene</infon>
+        <location offset="257" length="6"/>
+        <text>MCM2-7</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="type">Gene</infon>
+        <location offset="371" length="4"/>
+        <text>Mcm4</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="type">Gene</infon>
+        <location offset="404" length="4"/>
+        <text>Mcm2</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="type">Gene</infon>
+        <location offset="531" length="5"/>
+        <text>XL413</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="type">FamilyName</infon>
+        <location offset="551" length="3"/>
+        <text>DDK</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="type">Gene</infon>
+        <location offset="565" length="3"/>
+        <text>MCM</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="type">Gene</infon>
+        <location offset="600" length="21"/>
+        <text>protein phosphatase 1</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="type">Gene</infon>
+        <location offset="623" length="3"/>
+        <text>PP1</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="type">Gene</infon>
+        <location offset="653" length="4"/>
+        <text>Rif1</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="type">Gene</infon>
+        <location offset="667" length="4"/>
+        <text>Rif1</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="type">Gene</infon>
+        <location offset="682" length="3"/>
+        <text>MCM</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="type">Gene</infon>
+        <location offset="878" length="4"/>
+        <text>Rif1</text>
+      </annotation>
+      <annotation id="20">
+        <infon key="type">Gene</infon>
+        <location offset="1012" length="4"/>
+        <text>Chk1</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="type">Gene</infon>
+        <location offset="1105" length="3"/>
+        <text>MCM</text>
+      </annotation>
+      <annotation id="22">
+        <infon key="type">FamilyName</infon>
+        <location offset="1162" length="3"/>
+        <text>DDK</text>
+      </annotation>
+      <annotation id="23">
+        <infon key="type">Gene</infon>
+        <location offset="1196" length="4"/>
+        <text>Rif1</text>
+      </annotation>
+      <annotation id="24">
+        <infon key="type">FamilyName</infon>
+        <location offset="501" length="3"/>
+        <text>DDK</text>
+      </annotation>
+      <annotation id="25">
+        <infon key="type">Gene</infon>
+        <location offset="895" length="3"/>
+        <text>MCM</text>
+      </annotation>
+      <annotation id="26">
+        <infon key="Identifier">*8355</infon>
+        <infon key="type">Species</infon>
+        <location offset="291" length="14"/>
+        <text>Xenopus laevis</text>
+      </annotation>
+      <annotation id="27">
+        <infon key="Identifier">*9606</infon>
+        <infon key="type">Species</infon>
+        <location offset="323" length="5"/>
+        <text>human</text>
+      </annotation>
+      <annotation id="28">
+        <infon key="Identifier">*10090</infon>
+        <infon key="type">Cell</infon>
+        <location offset="306" length="3"/>
+        <text>egg</text>
+      </annotation>
+    </passage>
+  </document>
+  <document>
+    <id>19741124</id>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>The tetraspanin KAI1/CD82 is expressed by late-lineage oligodendrocyte precursors and may function to restrict precursor migration and promote oligodendrocyte differentiation and myelination.</text>
+      <annotation id="0">
+        <infon key="type">Gene</infon>
+        <location offset="16" length="4"/>
+        <text>KAI1</text>
+      </annotation>
+      <annotation id="1">
+        <infon key="type">Gene</infon>
+        <location offset="21" length="4"/>
+        <text>CD82</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">FamilyName</infon>
+        <location offset="0" length="15"/>
+        <text>The tetraspanin</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>192</offset>
+      <text>In the adult mammalian brain, oligodendrocyte progenitors can differentiate into mature oligodendrocytes during remyelination. Mechanisms that regulate migration and differentiation of progenitors are of great importance in understanding normal development and demyelinating/remyelinating conditions. In a microarray analysis comparing adult and neonatal O4-positive (+) cells, we found that the tetraspanin KAI1/CD82 is far more highly expressed in adult O4(+) cells than in neonatal O4(+) cells (Lin et al., 2009). CD82 is a metastasis suppressor, and its expression is often downregulated or lost in the advanced stages of metastatic cancer. We hypothesized that CD82 could be a factor that restricts migration and promotes differentiation of maturing oligodendrocytes. Western blot analysis of isolated adult O4(+) cells confirms the elevated levels of CD82, which continues to be expressed as these become O1(+) in vitro. In the adult rat white matter, CD82 is coexpressed with CC1 and olig2 but not with NG2 or GFAP. Immature cells of the neonatal forebrain subventricular zone (SVZ) infected in vivo with a retrovirus that constitutively expresses CD82 do not remain immature but differentiate into either CC1(+) and MBP(+) myelinating oligodendrocytes in the white matter or zebrinII(+) astrocytes in the cortex. Their migration from the SVZ is severely restricted. In contrast, downregulation of CD82 in SVZ cells in vivo, using retroviral-expressed short hairpin RNAs (shRNAs), prevents their differentiation into myelinating oligodendrocytes. shRNA-expressing cells remained PDGF receptor alpha positive, olig2(+), or NG2(+) or became CC1(+) nonmyelinating oligodendrocytes or GFAP(+) astrocytes. CD82 thus appears to be a critical molecule in the regulation of oligodendrocyte progenitor migration and myelination.</text>
+      <annotation id="3">
+        <infon key="type">Gene</infon>
+        <location offset="600" length="4"/>
+        <text>KAI1</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="type">Gene</infon>
+        <location offset="605" length="4"/>
+        <text>CD82</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="type">Gene</infon>
+        <location offset="709" length="4"/>
+        <text>CD82</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="type">Gene</infon>
+        <location offset="858" length="4"/>
+        <text>CD82</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="type">Gene</infon>
+        <location offset="1049" length="4"/>
+        <text>CD82</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="type">Gene</infon>
+        <location offset="1103" length="2"/>
+        <text>O1</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="type">Gene</infon>
+        <location offset="1150" length="4"/>
+        <text>CD82</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="type">Gene</infon>
+        <location offset="1175" length="3"/>
+        <text>CC1</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="type">Gene</infon>
+        <location offset="1183" length="5"/>
+        <text>olig2</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="type">Gene</infon>
+        <location offset="1202" length="3"/>
+        <text>NG2</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="type">Gene</infon>
+        <location offset="1209" length="4"/>
+        <text>GFAP</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="type">Gene</infon>
+        <location offset="1347" length="4"/>
+        <text>CD82</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="type">Gene</infon>
+        <location offset="1405" length="3"/>
+        <text>CC1</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="type">Gene</infon>
+        <location offset="1416" length="3"/>
+        <text>MBP</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="type">Gene</infon>
+        <location offset="1597" length="4"/>
+        <text>CD82</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="type">Gene</infon>
+        <location offset="1778" length="19"/>
+        <text>PDGF receptor alpha</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="type">Gene</infon>
+        <location offset="1808" length="5"/>
+        <text>olig2</text>
+      </annotation>
+      <annotation id="20">
+        <infon key="type">Gene</infon>
+        <location offset="1821" length="3"/>
+        <text>NG2</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="type">Gene</infon>
+        <location offset="1880" length="4"/>
+        <text>GFAP</text>
+      </annotation>
+      <annotation id="22">
+        <infon key="type">Gene</infon>
+        <location offset="1900" length="4"/>
+        <text>CD82</text>
+      </annotation>
+      <annotation id="23">
+        <infon key="type">Gene</infon>
+        <location offset="1838" length="3"/>
+        <text>CC1</text>
+      </annotation>
+      <annotation id="24">
+        <infon key="type">Gene</infon>
+        <location offset="1005" length="2"/>
+        <text>O4</text>
+      </annotation>
+      <annotation id="25">
+        <infon key="type">Gene</infon>
+        <location offset="677" length="2"/>
+        <text>O4</text>
+      </annotation>
+      <annotation id="26">
+        <infon key="type">Gene</infon>
+        <location offset="648" length="2"/>
+        <text>O4</text>
+      </annotation>
+      <annotation id="27">
+        <infon key="type">Gene</infon>
+        <location offset="547" length="2"/>
+        <text>O4</text>
+      </annotation>
+      <annotation id="28">
+        <infon key="type">FamilyName</infon>
+        <location offset="584" length="15"/>
+        <text>the tetraspanin</text>
+      </annotation>
+      <annotation id="29">
+        <infon key="Identifier">*9606</infon>
+        <infon key="type">Species</infon>
+        <location offset="205" length="9"/>
+        <text>mammalian</text>
+      </annotation>
+      <annotation id="30">
+        <infon key="Identifier">*10116</infon>
+        <infon key="type">Species</infon>
+        <location offset="1132" length="3"/>
+        <text>rat</text>
+      </annotation>
+    </passage>
+  </document>
+  <document>
+    <id>28260042</id>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Protective effect of naringin against the LPS-induced apoptosis of PC12 cells: Implications for the treatment of neurodegenerative disorders.</text>
+      <annotation id="0">
+        <infon key="type">Gene</infon>
+        <location offset="21" length="8"/>
+        <text>naringin</text>
+      </annotation>
+      <annotation id="1">
+        <infon key="Identifier">*10116</infon>
+        <infon key="type">Cell</infon>
+        <location offset="67" length="4"/>
+        <text>PC12</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>142</offset>
+      <text>Several studies have demonstrated that increased apoptosis plays an essential role in neurodegenerative disorders. It has been demonstrated that lipopolysaccharide (LPS) induces apoptosis largely through the production of intracellular reactive oxygen species (ROS) and inflammatory mediators. In this study, we investigated the potential protective mechanisms of naringin (Nar), a pummelo peel extract, on LPS-induced PC12 cell apoptosis. Nar pre-conditioning prior to stimulation with LPS for 18 h was a prerequisite for evaluating PC12 cell viability and the protective mechanisms of Nar. Nar significantly improved cell survival in a time- and concentration-dependent manner. On the one hand, Nar downregulated cytochrome P450 2E1 (CYP2E1), inhibited the release of ROS, mitigated the stimulation of oxidative stress, and rectified the antioxidant protein contents of nuclear factor erythroid 2-related factor 2 (Nrf2), heme oxygenase-1 (HO-1), superoxide dismutase (SOD)2 and glutathione synthetase (GSS). On the other hand, Nar downregulated inflammatory gene and protein expression, including interleukin (IL)-1b, IL-6, tumor necrosis factor (TNF)-a, HMGB1, high mobility group box 1 protein (HMGB1), cyclooxygenase-2 (COX-2), the Toll-like receptor 4 (TLR4)-myeloid differentiation factor 88 (MyD88)-TNF receptor-associated factor 6 (TRAF6) path-way and downstream mitogen activated protein kinase (MAPK) phosphorylation, activator protein transcription factor-1 (AP-1) and nuclear factor (NF)-kB. Moroever, Nar markedly attenuated the cytochrome c shift from the mitochondria to the cytosol and regulated caspase-3-related protein expression. To the best of our knowledge, this is the first study to report the antioxidant, anti-inflammatory and anti-apoptotic effects of Nar in neuronal-like PC12 cells. These results suggest that Nar can be utilized as a potential drug for the treatment of neurodegenerative disorders.</text>
+      <annotation id="2">
+        <infon key="type">Gene</infon>
+        <location offset="506" length="8"/>
+        <text>naringin</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">Gene</infon>
+        <location offset="516" length="3"/>
+        <text>Nar</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="type">Gene</infon>
+        <location offset="582" length="3"/>
+        <text>Nar</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="type">Gene</infon>
+        <location offset="729" length="3"/>
+        <text>Nar</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="type">Gene</infon>
+        <location offset="839" length="3"/>
+        <text>Nar</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="type">Gene</infon>
+        <location offset="857" length="19"/>
+        <text>cytochrome P450 2E1</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="type">Gene</infon>
+        <location offset="878" length="6"/>
+        <text>CYP2E1</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="type">Gene</infon>
+        <location offset="1014" length="43"/>
+        <text>nuclear factor erythroid 2-related factor 2</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="type">Gene</infon>
+        <location offset="1059" length="4"/>
+        <text>Nrf2</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="type">Gene</infon>
+        <location offset="1066" length="16"/>
+        <text>heme oxygenase-1</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="type">Gene</infon>
+        <location offset="1084" length="4"/>
+        <text>HO-1</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="type">Gene</infon>
+        <location offset="1091" length="20"/>
+        <text>superoxide dismutase</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="type">Gene</infon>
+        <location offset="1113" length="5"/>
+        <text>SOD)2</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="type">Gene</infon>
+        <location offset="1123" length="22"/>
+        <text>glutathione synthetase</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="type">Gene</infon>
+        <location offset="1172" length="3"/>
+        <text>Nar</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="type">Gene</infon>
+        <location offset="1242" length="19"/>
+        <text>interleukin (IL)-1b</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="type">Gene</infon>
+        <location offset="1263" length="4"/>
+        <text>IL-6</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="type">Gene</infon>
+        <location offset="1269" length="29"/>
+        <text>tumor necrosis factor (TNF)-a</text>
+      </annotation>
+      <annotation id="20">
+        <infon key="type">Gene</infon>
+        <location offset="1300" length="5"/>
+        <text>HMGB1</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="type">Gene</infon>
+        <location offset="1307" length="25"/>
+        <text>high mobility group box 1</text>
+      </annotation>
+      <annotation id="22">
+        <infon key="type">Gene</infon>
+        <location offset="1342" length="5"/>
+        <text>HMGB1</text>
+      </annotation>
+      <annotation id="23">
+        <infon key="type">Gene</infon>
+        <location offset="1350" length="16"/>
+        <text>cyclooxygenase-2</text>
+      </annotation>
+      <annotation id="24">
+        <infon key="type">Gene</infon>
+        <location offset="1368" length="5"/>
+        <text>COX-2</text>
+      </annotation>
+      <annotation id="25">
+        <infon key="type">Gene</infon>
+        <location offset="1380" length="20"/>
+        <text>Toll-like receptor 4</text>
+      </annotation>
+      <annotation id="26">
+        <infon key="type">Gene</infon>
+        <location offset="1402" length="4"/>
+        <text>TLR4</text>
+      </annotation>
+      <annotation id="27">
+        <infon key="type">Gene</infon>
+        <location offset="1408" length="33"/>
+        <text>myeloid differentiation factor 88</text>
+      </annotation>
+      <annotation id="28">
+        <infon key="type">Gene</infon>
+        <location offset="1443" length="5"/>
+        <text>MyD88</text>
+      </annotation>
+      <annotation id="29">
+        <infon key="type">Gene</infon>
+        <location offset="1450" length="32"/>
+        <text>TNF receptor-associated factor 6</text>
+      </annotation>
+      <annotation id="30">
+        <infon key="type">Gene</infon>
+        <location offset="1484" length="5"/>
+        <text>TRAF6</text>
+      </annotation>
+      <annotation id="31">
+        <infon key="type">Gene</infon>
+        <location offset="1515" length="97"/>
+        <text>mitogen activated protein kinase (MAPK) phosphorylation, activator protein transcription factor-1</text>
+      </annotation>
+      <annotation id="32">
+        <infon key="type">Gene</infon>
+        <location offset="1614" length="4"/>
+        <text>AP-1</text>
+      </annotation>
+      <annotation id="33">
+        <infon key="type">Gene</infon>
+        <location offset="1624" length="22"/>
+        <text>nuclear factor (NF)-kB</text>
+      </annotation>
+      <annotation id="34">
+        <infon key="type">Gene</infon>
+        <location offset="1658" length="3"/>
+        <text>Nar</text>
+      </annotation>
+      <annotation id="35">
+        <infon key="type">Gene</infon>
+        <location offset="1686" length="12"/>
+        <text>cytochrome c</text>
+      </annotation>
+      <annotation id="36">
+        <infon key="type">Gene</infon>
+        <location offset="1756" length="9"/>
+        <text>caspase-3</text>
+      </annotation>
+      <annotation id="37">
+        <infon key="type">Gene</infon>
+        <location offset="1923" length="3"/>
+        <text>Nar</text>
+      </annotation>
+      <annotation id="38">
+        <infon key="type">Gene</infon>
+        <location offset="1983" length="3"/>
+        <text>Nar</text>
+      </annotation>
+      <annotation id="39">
+        <infon key="type">Gene</infon>
+        <location offset="734" length="3"/>
+        <text>Nar</text>
+      </annotation>
+      <annotation id="40">
+        <infon key="Identifier">*37334</infon>
+        <infon key="type">Species</infon>
+        <location offset="524" length="7"/>
+        <text>pummelo</text>
+      </annotation>
+      <annotation id="41">
+        <infon key="Identifier">*10116</infon>
+        <infon key="type">Cell</infon>
+        <location offset="561" length="4"/>
+        <text>PC12</text>
+      </annotation>
+      <annotation id="42">
+        <infon key="Identifier">*10116</infon>
+        <infon key="type">Cell</infon>
+        <location offset="676" length="4"/>
+        <text>PC12</text>
+      </annotation>
+      <annotation id="43">
+        <infon key="Identifier">*10116</infon>
+        <infon key="type">Cell</infon>
+        <location offset="1944" length="4"/>
+        <text>PC12</text>
+      </annotation>
+    </passage>
+  </document>
+  <document>
+    <id>29222418</id>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>HEB is required for the specification of fetal IL-17-producing gd T cells.</text>
+      <annotation id="0">
+        <infon key="type">Gene</infon>
+        <location offset="0" length="3"/>
+        <text>HEB</text>
+      </annotation>
+      <annotation id="1">
+        <infon key="type">Gene</infon>
+        <location offset="47" length="5"/>
+        <text>IL-17</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>75</offset>
+      <text>IL-17-producing gd T (gdT17) cells are critical components of the innate immune system. However, the gene networks that control their development are unclear. Here we show that HEB (HeLa E-box binding protein, encoded by Tcf12) is required for the generation of a newly defined subset of fetal-derived CD73- gdT17 cells. HEB is required in immature CD24+CD73- gd T cells for the expression of Sox4, Sox13, and Rorc, and these genes are repressed by acute expression of the HEB antagonist Id3. HEB-deficiency also affects mature CD73+ gd T cells, which are defective in RORgt expression and IL-17 production. Additionally, the fetal TCRg chain repertoire is altered, and peripheral Vg4 gd T cells are mostly restricted to the IFNg-producing phenotype in HEB-deficient mice. Therefore, our work identifies HEB-dependent pathways for the development of CD73+ and CD73- gdT17 cells, and provides mechanistic evidence for control of the gdT17 gene network by HEB.</text>
+      <annotation id="2">
+        <infon key="type">Gene</infon>
+        <location offset="75" length="5"/>
+        <text>IL-17</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">Gene</infon>
+        <location offset="252" length="3"/>
+        <text>HEB</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="type">Gene</infon>
+        <location offset="257" length="26"/>
+        <text>HeLa E-box binding protein</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="type">Gene</infon>
+        <location offset="296" length="5"/>
+        <text>Tcf12</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="type">Gene</infon>
+        <location offset="377" length="4"/>
+        <text>CD73</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="type">Gene</infon>
+        <location offset="396" length="3"/>
+        <text>HEB</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="type">Gene</infon>
+        <location offset="424" length="4"/>
+        <text>CD24</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="type">Gene</infon>
+        <location offset="429" length="4"/>
+        <text>CD73</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="type">Gene</infon>
+        <location offset="468" length="4"/>
+        <text>Sox4</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="type">Gene</infon>
+        <location offset="474" length="5"/>
+        <text>Sox13</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="type">Gene</infon>
+        <location offset="485" length="4"/>
+        <text>Rorc</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="type">Gene</infon>
+        <location offset="548" length="3"/>
+        <text>HEB</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="type">Gene</infon>
+        <location offset="563" length="3"/>
+        <text>Id3</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="type">Gene</infon>
+        <location offset="568" length="3"/>
+        <text>HEB</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="type">Gene</infon>
+        <location offset="603" length="4"/>
+        <text>CD73</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="type">Gene</infon>
+        <location offset="644" length="5"/>
+        <text>RORgt</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="type">Gene</infon>
+        <location offset="665" length="5"/>
+        <text>IL-17</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="type">Gene</infon>
+        <location offset="707" length="4"/>
+        <text>TCRg</text>
+      </annotation>
+      <annotation id="20">
+        <infon key="type">Gene</infon>
+        <location offset="756" length="3"/>
+        <text>Vg4</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="type">FamilyName</infon>
+        <location offset="800" length="4"/>
+        <text>IFNg</text>
+      </annotation>
+      <annotation id="22">
+        <infon key="type">Gene</infon>
+        <location offset="828" length="3"/>
+        <text>HEB</text>
+      </annotation>
+      <annotation id="23">
+        <infon key="type">Gene</infon>
+        <location offset="879" length="3"/>
+        <text>HEB</text>
+      </annotation>
+      <annotation id="24">
+        <infon key="type">Gene</infon>
+        <location offset="925" length="4"/>
+        <text>CD73</text>
+      </annotation>
+      <annotation id="25">
+        <infon key="type">Gene</infon>
+        <location offset="935" length="4"/>
+        <text>CD73</text>
+      </annotation>
+      <annotation id="26">
+        <infon key="type">Gene</infon>
+        <location offset="1007" length="5"/>
+        <text>gdT17</text>
+      </annotation>
+      <annotation id="27">
+        <infon key="type">Gene</infon>
+        <location offset="1029" length="3"/>
+        <text>HEB</text>
+      </annotation>
+      <annotation id="28">
+        <infon key="type">Gene</infon>
+        <location offset="941" length="5"/>
+        <text>gdT17</text>
+      </annotation>
+      <annotation id="29">
+        <infon key="type">Gene</infon>
+        <location offset="383" length="5"/>
+        <text>gdT17</text>
+      </annotation>
+      <annotation id="30">
+        <infon key="type">Gene</infon>
+        <location offset="97" length="5"/>
+        <text>gdT17</text>
+      </annotation>
+      <annotation id="31">
+        <infon key="Identifier">*10090</infon>
+        <infon key="type">Species</infon>
+        <location offset="842" length="4"/>
+        <text>mice</text>
+      </annotation>
+      <annotation id="32">
+        <infon key="Identifier">*9606</infon>
+        <infon key="type">Cell</infon>
+        <location offset="756" length="3"/>
+        <text>Vg4</text>
+      </annotation>
+    </passage>
+  </document>
+  <document>
+    <id>19521535</id>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Caenorhabditis elegans protein arginine methyltransferase PRMT-5 negatively regulates DNA damage-induced apoptosis.</text>
+      <annotation id="0">
+        <infon key="type">Gene</infon>
+        <location offset="23" length="34"/>
+        <text>protein arginine methyltransferase</text>
+      </annotation>
+      <annotation id="1">
+        <infon key="type">Gene</infon>
+        <location offset="58" length="6"/>
+        <text>PRMT-5</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">Gene</infon>
+        <location offset="23" length="34"/>
+        <text>protein arginine methyltransferase</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="Identifier">*6239</infon>
+        <infon key="type">Species</infon>
+        <location offset="0" length="22"/>
+        <text>Caenorhabditis elegans</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>116</offset>
+      <text>Arginine methylation of histone and non-histone proteins is involved in transcription regulation and many other cellular processes. Nevertheless, whether such protein modification plays a regulatory role during apoptosis remains largely unknown. Here we report that the Caenorhabditis elegans homolog of mammalian type II arginine methyltransferase PRMT5 negatively regulates DNA damage-induced apoptosis. We show that inactivation of C. elegans prmt-5 leads to excessive apoptosis in germline following ionizing irradiation, which is due to a CEP-1/p53-dependent up-regulation of the cell death initiator EGL-1. Moreover, we provide evidence that CBP-1, the worm ortholog of human p300/CBP, functions as a cofactor of CEP-1. PRMT-5 forms a complex with both CEP-1 and CBP-1 and can methylate the latter. Importantly, down-regulation of cbp-1 significantly suppresses DNA damage-induced egl-1 expression and apoptosis in prmt-5 mutant worms. These findings suggest that PRMT-5 likely represses CEP-1 transcriptional activity through CBP-1, which represents a novel regulatory mechanism of p53-dependent apoptosis.</text>
+      <annotation id="4">
+        <infon key="type">FamilyName</infon>
+        <location offset="140" length="7"/>
+        <text>histone</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="type">Gene</infon>
+        <location offset="430" length="34"/>
+        <text>type II arginine methyltransferase</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="type">Gene</infon>
+        <location offset="465" length="5"/>
+        <text>PRMT5</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="type">Gene</infon>
+        <location offset="562" length="6"/>
+        <text>prmt-5</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="type">Gene</infon>
+        <location offset="660" length="5"/>
+        <text>CEP-1</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="type">Gene</infon>
+        <location offset="666" length="3"/>
+        <text>p53</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="type">Gene</infon>
+        <location offset="722" length="5"/>
+        <text>EGL-1</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="type">Gene</infon>
+        <location offset="764" length="5"/>
+        <text>CBP-1</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="type">Gene</infon>
+        <location offset="798" length="4"/>
+        <text>p300</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="type">Gene</infon>
+        <location offset="803" length="3"/>
+        <text>CBP</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="type">Gene</infon>
+        <location offset="835" length="5"/>
+        <text>CEP-1</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="type">Gene</infon>
+        <location offset="842" length="6"/>
+        <text>PRMT-5</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="type">Gene</infon>
+        <location offset="875" length="5"/>
+        <text>CEP-1</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="type">Gene</infon>
+        <location offset="885" length="5"/>
+        <text>CBP-1</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="type">Gene</infon>
+        <location offset="953" length="5"/>
+        <text>cbp-1</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="type">Gene</infon>
+        <location offset="1003" length="5"/>
+        <text>egl-1</text>
+      </annotation>
+      <annotation id="20">
+        <infon key="type">Gene</infon>
+        <location offset="1086" length="6"/>
+        <text>PRMT-5</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="type">Gene</infon>
+        <location offset="1110" length="5"/>
+        <text>CEP-1</text>
+      </annotation>
+      <annotation id="22">
+        <infon key="type">Gene</infon>
+        <location offset="1149" length="5"/>
+        <text>CBP-1</text>
+      </annotation>
+      <annotation id="23">
+        <infon key="type">Gene</infon>
+        <location offset="1205" length="3"/>
+        <text>p53</text>
+      </annotation>
+      <annotation id="24">
+        <infon key="type">Gene</infon>
+        <location offset="1037" length="6"/>
+        <text>prmt-5</text>
+      </annotation>
+      <annotation id="25">
+        <infon key="type">FamilyName</infon>
+        <location offset="156" length="7"/>
+        <text>histone</text>
+      </annotation>
+      <annotation id="26">
+        <infon key="Identifier">*6239</infon>
+        <infon key="type">Species</infon>
+        <location offset="386" length="22"/>
+        <text>Caenorhabditis elegans</text>
+      </annotation>
+      <annotation id="27">
+        <infon key="Identifier">*9606</infon>
+        <infon key="type">Species</infon>
+        <location offset="420" length="9"/>
+        <text>mammalian</text>
+      </annotation>
+      <annotation id="28">
+        <infon key="Identifier">*6239</infon>
+        <infon key="type">Species</infon>
+        <location offset="551" length="10"/>
+        <text>C. elegans</text>
+      </annotation>
+      <annotation id="29">
+        <infon key="Identifier">*9606</infon>
+        <infon key="type">Species</infon>
+        <location offset="792" length="5"/>
+        <text>human</text>
+      </annotation>
+    </passage>
+  </document>
+  <document>
+    <id>27491646</id>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Gartanin induces cell cycle arrest and autophagy and suppresses migration involving PI3K/Akt/mTOR and MAPK signalling pathway in human glioma cells.</text>
+      <annotation id="0">
+        <infon key="type">Gene</infon>
+        <location offset="84" length="4"/>
+        <text>PI3K</text>
+      </annotation>
+      <annotation id="1">
+        <infon key="type">Gene</infon>
+        <location offset="89" length="3"/>
+        <text>Akt</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">Gene</infon>
+        <location offset="93" length="4"/>
+        <text>mTOR</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">Gene</infon>
+        <location offset="102" length="4"/>
+        <text>MAPK</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="type">Gene</infon>
+        <location offset="102" length="4"/>
+        <text>MAPK</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="Identifier">*9606</infon>
+        <infon key="type">Species</infon>
+        <location offset="129" length="5"/>
+        <text>human</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>149</offset>
+      <text>In central nervous system, glioma is the most common primary brain tumour. The diffuse migration and rapid proliferation are main obstacles for successful treatment. Gartanin, a natural xanthone of mangosteen, suppressed proliferation, migration and colony formation in a time- and concentration-dependent manner in T98G glioma cells but not in mouse normal neuronal HT22 cells. Gartanin, at low micromole, led to cell cycle arrest in G1 phase accompanied by inhibited expression level of G1 cell cycle regulatory proteins cyclin D1, while increased expression level of cyclin-dependent kinase inhibitor p27Kip1. In addition, the secretion and activity of matrix metalloproteinases 2/9 (MMP-2/-9) were significantly suppressed in T98G cells treated with gartanin, and it might result from modulating mitogen-activated protein kinases (MAPK) signalling pathway in T98G glioma cells. Moreover, gartanin significantly induced autophagy in T98G cells and increased GFP-LC3 punctate fluorescence accompanied by the increased expression level of Beclin 1 and LC3-II, while suppressed expression level of p62. Gartanin treatment resulted in obvious inhibition of PI3K/Akt/mTOR signalling pathway, which is important in modulating autophagy. Notably, gartanin-mediated anti-viability was significantly abrogated by autophagy inhibitors including 3-methyladenine (3-MA) and chloroquine (CQ). These results indicate that anti-proliferation effect of gartanin in T98G cells is most likely via cell cycle arrest modulated by autophagy, which is regulated by PI3K/Akt/mTOR signalling pathway, while anti-migration effect is most likely via suppression of MMP-2/-9 activity which is involved in MAPK signalling pathway.</text>
+      <annotation id="6">
+        <infon key="type">Gene</infon>
+        <location offset="672" length="9"/>
+        <text>cyclin D1</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="type">FamilyName</infon>
+        <location offset="719" length="33"/>
+        <text>cyclin-dependent kinase inhibitor</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="type">Gene</infon>
+        <location offset="753" length="7"/>
+        <text>p27Kip1</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="type">Gene</infon>
+        <location offset="805" length="29"/>
+        <text>matrix metalloproteinases 2/9</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="type">Gene</infon>
+        <location offset="836" length="8"/>
+        <text>MMP-2/-9</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="type">Gene</infon>
+        <location offset="949" length="33"/>
+        <text>mitogen-activated protein kinases</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="type">Gene</infon>
+        <location offset="984" length="4"/>
+        <text>MAPK</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="type">Gene</infon>
+        <location offset="1189" length="8"/>
+        <text>Beclin 1</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="type">Gene</infon>
+        <location offset="1247" length="3"/>
+        <text>p62</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="type">Gene</infon>
+        <location offset="1305" length="4"/>
+        <text>PI3K</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="type">Gene</infon>
+        <location offset="1310" length="3"/>
+        <text>Akt</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="type">Gene</infon>
+        <location offset="1314" length="4"/>
+        <text>mTOR</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="type">Gene</infon>
+        <location offset="1695" length="4"/>
+        <text>PI3K</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="type">Gene</infon>
+        <location offset="1700" length="3"/>
+        <text>Akt</text>
+      </annotation>
+      <annotation id="20">
+        <infon key="type">Gene</infon>
+        <location offset="1704" length="4"/>
+        <text>mTOR</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="type">Gene</infon>
+        <location offset="1791" length="8"/>
+        <text>MMP-2/-9</text>
+      </annotation>
+      <annotation id="22">
+        <infon key="type">Gene</infon>
+        <location offset="1830" length="4"/>
+        <text>MAPK</text>
+      </annotation>
+      <annotation id="23">
+        <infon key="type">FamilyName</infon>
+        <location offset="638" length="33"/>
+        <text>G1 cell cycle regulatory proteins</text>
+      </annotation>
+      <annotation id="24">
+        <infon key="Identifier">*58228</infon>
+        <infon key="type">Species</infon>
+        <location offset="347" length="10"/>
+        <text>mangosteen</text>
+      </annotation>
+      <annotation id="25">
+        <infon key="Identifier">*10090</infon>
+        <infon key="type">Species</infon>
+        <location offset="494" length="5"/>
+        <text>mouse</text>
+      </annotation>
+      <annotation id="26">
+        <infon key="Identifier">*9606</infon>
+        <infon key="type">Cell</infon>
+        <location offset="465" length="4"/>
+        <text>T98G</text>
+      </annotation>
+      <annotation id="27">
+        <infon key="Identifier">*10090</infon>
+        <infon key="type">Cell</infon>
+        <location offset="516" length="4"/>
+        <text>HT22</text>
+      </annotation>
+      <annotation id="28">
+        <infon key="Identifier">*9606</infon>
+        <infon key="type">Cell</infon>
+        <location offset="879" length="4"/>
+        <text>T98G</text>
+      </annotation>
+      <annotation id="29">
+        <infon key="Identifier">*9606</infon>
+        <infon key="type">Cell</infon>
+        <location offset="1012" length="4"/>
+        <text>T98G</text>
+      </annotation>
+      <annotation id="30">
+        <infon key="Identifier">*9606</infon>
+        <infon key="type">Cell</infon>
+        <location offset="1085" length="4"/>
+        <text>T98G</text>
+      </annotation>
+      <annotation id="31">
+        <infon key="Identifier">*9606</infon>
+        <infon key="type">Cell</infon>
+        <location offset="1601" length="4"/>
+        <text>T98G</text>
+      </annotation>
+    </passage>
+  </document>
+  <document>
+    <id>21159167</id>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Blocking of ERK1 and ERK2 sensitizes human mesothelioma cells to doxorubicin.</text>
+      <annotation id="0">
+        <infon key="type">Gene</infon>
+        <location offset="12" length="4"/>
+        <text>ERK1</text>
+      </annotation>
+      <annotation id="1">
+        <infon key="type">Gene</infon>
+        <location offset="21" length="4"/>
+        <text>ERK2</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="Identifier">*9606</infon>
+        <infon key="type">Species</infon>
+        <location offset="37" length="5"/>
+        <text>human</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>78</offset>
+      <text>BACKGROUND: Malignant mesotheliomas (MM) have a poor prognosis, largely because of their chemoresistance to anti-cancer drugs such as doxorubicin (Dox). Here we show using human MM lines that Dox activates extracellular signal-regulated kinases (ERK1 and 2), causally linked to increased expression of ABC transporter genes, decreased accumulation of Dox, and enhanced MM growth. Using the MEK1/2 inhibitor, U0126 and stably transfected shERK1 and shERK2 MM cell lines, we show that inhibition of both ERK1 and 2 sensitizes MM cells to Dox. RESULTS: U0126 significantly modulated endogenous expression of several important drug resistance (BCL2, ABCB1, ABCC3), prosurvival (BCL2), DNA repair (BRCA1, BRCA2), hormone receptor (AR, ESR2, PPARgamma) and drug metabolism (CYP3A4) genes newly identified in MM cells. In comparison to shControl lines, MM cell lines stably transfected with shERK1 or shERK2 exhibited significant increases in intracellular accumulation of Dox and decreases in cell viability. Affymetrix microarray analysis on stable shERK1 and shERK2 MM lines showed more than 2-fold inhibition (p    &lt;= 0.05) of expression of ATP binding cassette genes (ABCG1, ABCA5, ABCA2, MDR/TAP, ABCA1, ABCA8, ABCC2) in comparison to shControl lines. Moreover, injection of human MM lines into SCID mice showed that stable shERK1 or shERK2 lines had significantly slower tumor growth rates in comparison to shControl lines after Dox treatment. CONCLUSIONS: These studies suggest that blocking ERK1 and 2, which play critical roles in multi-drug resistance and survival, may be beneficial in combination with chemotherapeutic drugs in the treatment of MMs and other tumors.</text>
+      <annotation id="3">
+        <infon key="type">FamilyName</infon>
+        <location offset="284" length="38"/>
+        <text>extracellular signal-regulated kinases</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="type">Gene</infon>
+        <location offset="324" length="10"/>
+        <text>ERK1 and 2</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="type">FamilyName</infon>
+        <location offset="380" length="15"/>
+        <text>ABC transporter</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="type">Gene</infon>
+        <location offset="468" length="6"/>
+        <text>MEK1/2</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="type">Gene</infon>
+        <location offset="515" length="6"/>
+        <text>shERK1</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="type">Gene</infon>
+        <location offset="526" length="6"/>
+        <text>shERK2</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="type">Gene</infon>
+        <location offset="580" length="10"/>
+        <text>ERK1 and 2</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="type">Gene</infon>
+        <location offset="718" length="4"/>
+        <text>BCL2</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="type">Gene</infon>
+        <location offset="724" length="5"/>
+        <text>ABCB1</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="type">Gene</infon>
+        <location offset="731" length="5"/>
+        <text>ABCC3</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="type">Gene</infon>
+        <location offset="752" length="4"/>
+        <text>BCL2</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="type">Gene</infon>
+        <location offset="771" length="5"/>
+        <text>BRCA1</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="type">Gene</infon>
+        <location offset="778" length="5"/>
+        <text>BRCA2</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="type">Gene</infon>
+        <location offset="786" length="16"/>
+        <text>hormone receptor</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="type">Gene</infon>
+        <location offset="804" length="2"/>
+        <text>AR</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="type">Gene</infon>
+        <location offset="808" length="4"/>
+        <text>ESR2</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="type">Gene</infon>
+        <location offset="814" length="9"/>
+        <text>PPARgamma</text>
+      </annotation>
+      <annotation id="20">
+        <infon key="type">Gene</infon>
+        <location offset="846" length="6"/>
+        <text>CYP3A4</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="type">Gene</infon>
+        <location offset="962" length="6"/>
+        <text>shERK1</text>
+      </annotation>
+      <annotation id="22">
+        <infon key="type">Gene</infon>
+        <location offset="972" length="6"/>
+        <text>shERK2</text>
+      </annotation>
+      <annotation id="23">
+        <infon key="type">Gene</infon>
+        <location offset="1122" length="6"/>
+        <text>shERK1</text>
+      </annotation>
+      <annotation id="24">
+        <infon key="type">Gene</infon>
+        <location offset="1133" length="6"/>
+        <text>shERK2</text>
+      </annotation>
+      <annotation id="25">
+        <infon key="type">FamilyName</infon>
+        <location offset="1216" length="20"/>
+        <text>ATP binding cassette</text>
+      </annotation>
+      <annotation id="26">
+        <infon key="type">Gene</infon>
+        <location offset="1244" length="5"/>
+        <text>ABCG1</text>
+      </annotation>
+      <annotation id="27">
+        <infon key="type">Gene</infon>
+        <location offset="1251" length="5"/>
+        <text>ABCA5</text>
+      </annotation>
+      <annotation id="28">
+        <infon key="type">Gene</infon>
+        <location offset="1258" length="5"/>
+        <text>ABCA2</text>
+      </annotation>
+      <annotation id="29">
+        <infon key="type">Gene</infon>
+        <location offset="1265" length="3"/>
+        <text>MDR</text>
+      </annotation>
+      <annotation id="30">
+        <infon key="type">Gene</infon>
+        <location offset="1269" length="3"/>
+        <text>TAP</text>
+      </annotation>
+      <annotation id="31">
+        <infon key="type">Gene</infon>
+        <location offset="1274" length="5"/>
+        <text>ABCA1</text>
+      </annotation>
+      <annotation id="32">
+        <infon key="type">Gene</infon>
+        <location offset="1281" length="5"/>
+        <text>ABCA8</text>
+      </annotation>
+      <annotation id="33">
+        <infon key="type">Gene</infon>
+        <location offset="1288" length="5"/>
+        <text>ABCC2</text>
+      </annotation>
+      <annotation id="34">
+        <infon key="type">Gene</infon>
+        <location offset="1401" length="6"/>
+        <text>shERK1</text>
+      </annotation>
+      <annotation id="35">
+        <infon key="type">Gene</infon>
+        <location offset="1411" length="6"/>
+        <text>shERK2</text>
+      </annotation>
+      <annotation id="36">
+        <infon key="type">Gene</infon>
+        <location offset="1571" length="10"/>
+        <text>ERK1 and 2</text>
+      </annotation>
+      <annotation id="37">
+        <infon key="Identifier">*9606</infon>
+        <infon key="type">Species</infon>
+        <location offset="250" length="5"/>
+        <text>human</text>
+      </annotation>
+      <annotation id="38">
+        <infon key="Identifier">*9606</infon>
+        <infon key="type">Species</infon>
+        <location offset="1352" length="5"/>
+        <text>human</text>
+      </annotation>
+      <annotation id="39">
+        <infon key="Identifier">*10090</infon>
+        <infon key="type">Species</infon>
+        <location offset="1377" length="4"/>
+        <text>mice</text>
+      </annotation>
+    </passage>
+  </document>
+  <document>
+    <id>27110092</id>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Repurposing an orally available drug for the treatment of geographic atrophy.</text>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>78</offset>
+      <text>PURPOSE: Chronic oxidative stress and subacute inflammation have been implicated as causes of age-related macular degeneration (AMD). In this study, we tested whether an orally available 5-OH-tryptamine (5HT) 1a receptor agonist, xaliproden, could protect against retinal pigment epithelium (RPE) cell damage in culture and in a mouse model of geographic atrophy. METHODS: Paraquat was used to create mitochondrial oxidative stress in ARPE-19 cells, and tumor necrosis factor-a (TNF-a) was used to stimulate the production of inflammatory cytokines in these cells. The production of antioxidant proteins, metallothionein, and inflammatory cytokines was assayed with quantitative real-time PCR. Cell survival was analyzed with microscopy and a cell titer assay. Integrity of the RPE monolayer was determined by measuring the transepithelial electrical resistance (TEER) and with immunocytochemistry with zona occludens protein 1 (ZO-1) antibody. RPE atrophy was studied in mice deleted for Sod2 (the gene for mitochondrial superoxide dismutase) specifically in the RPE. The mice were treated orally with daily doses of xaliproden at 0.5 and 3 mg/kg for 4 months. The retinal structure was analyzed with spectral domain optical coherence tomography (SD-OCT) and with light and electron microscopy. Retinal function was assessed with full-field electroretinography (ERG) and with optokinetic measurements. RESULTS: Xaliproden led to a dose-dependent increase in cell survival following treatment with paraquat. Synthesis of the antioxidant response genes NqO1, GSTM1, CAT, HO-1, and Nrf2 was increased in response to the drug, as was the zinc chaperone metallothionein. Treatment of cells with TNF-a led to increased production of IL-1b, IL-6, chemokine (C-C motif) ligand 20 (CCL20), and vascular endothelial growth factor (VEGF) by ARPE-19 cells, and this response was attenuated by treatment with xaliproden. TNF-a also led to a decrease in the TEER that was prevented by treatment with the 5HT1a agonist. Daily gavage with xaliproden at either dose induced the production of protective enzymes in the mouse retina, and treatment of the Sod2-deleted mice with the drug showed improved thickness of the outer nuclear layer and improved visual acuity relative to the control-treated mice. There was no significant difference in full-field scotopic ERG among the treatment groups, however. Vacuolization of the RPE and disorganization of the photoreceptor outer segments were reduced at both dose levels of xaliproden. CONCLUSIONS: Xaliproden protected RPE cells from oxidative and inflammatory insults and protected the mouse RPE and retina from RPE atrophy in the face of excess mitochondrial oxidative stress. These results suggest that this drug, which had a reasonable safety profile in clinical trials, may be used to prevent the progression of geographic atrophy in humans.</text>
+      <annotation id="0">
+        <infon key="type">Gene</infon>
+        <location offset="265" length="33"/>
+        <text>5-OH-tryptamine (5HT) 1a receptor</text>
+      </annotation>
+      <annotation id="1">
+        <infon key="type">Gene</infon>
+        <location offset="532" length="23"/>
+        <text>tumor necrosis factor-a</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">Gene</infon>
+        <location offset="557" length="5"/>
+        <text>TNF-a</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">Gene</infon>
+        <location offset="981" length="24"/>
+        <text>zona occludens protein 1</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="type">Gene</infon>
+        <location offset="1007" length="4"/>
+        <text>ZO-1</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="type">Gene</infon>
+        <location offset="1067" length="4"/>
+        <text>Sod2</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="type">FamilyName</infon>
+        <location offset="1086" length="34"/>
+        <text>mitochondrial superoxide dismutase</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="type">Gene</infon>
+        <location offset="1630" length="4"/>
+        <text>NqO1</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="type">Gene</infon>
+        <location offset="1636" length="5"/>
+        <text>GSTM1</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="type">Gene</infon>
+        <location offset="1643" length="3"/>
+        <text>CAT</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="type">Gene</infon>
+        <location offset="1648" length="4"/>
+        <text>HO-1</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="type">Gene</infon>
+        <location offset="1658" length="4"/>
+        <text>Nrf2</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="type">Gene</infon>
+        <location offset="1769" length="5"/>
+        <text>TNF-a</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="type">Gene</infon>
+        <location offset="1806" length="5"/>
+        <text>IL-1b</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="type">Gene</infon>
+        <location offset="1813" length="4"/>
+        <text>IL-6</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="type">Gene</infon>
+        <location offset="1819" length="31"/>
+        <text>chemokine (C-C motif) ligand 20</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="type">Gene</infon>
+        <location offset="1852" length="5"/>
+        <text>CCL20</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="type">Gene</infon>
+        <location offset="1864" length="34"/>
+        <text>vascular endothelial growth factor</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="type">Gene</infon>
+        <location offset="1900" length="4"/>
+        <text>VEGF</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="type">Gene</infon>
+        <location offset="1987" length="5"/>
+        <text>TNF-a</text>
+      </annotation>
+      <annotation id="20">
+        <infon key="type">Gene</infon>
+        <location offset="2069" length="5"/>
+        <text>5HT1a</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="type">Gene</infon>
+        <location offset="2215" length="4"/>
+        <text>Sod2</text>
+      </annotation>
+      <annotation id="22">
+        <infon key="Identifier">*10090</infon>
+        <infon key="type">Species</infon>
+        <location offset="407" length="5"/>
+        <text>mouse</text>
+      </annotation>
+      <annotation id="23">
+        <infon key="Identifier">*10090</infon>
+        <infon key="type">Species</infon>
+        <location offset="1050" length="4"/>
+        <text>mice</text>
+      </annotation>
+      <annotation id="24">
+        <infon key="Identifier">*10090</infon>
+        <infon key="type">Species</infon>
+        <location offset="1151" length="4"/>
+        <text>mice</text>
+      </annotation>
+      <annotation id="25">
+        <infon key="Identifier">*10090</infon>
+        <infon key="type">Species</infon>
+        <location offset="2180" length="5"/>
+        <text>mouse</text>
+      </annotation>
+      <annotation id="26">
+        <infon key="Identifier">*10090</infon>
+        <infon key="type">Species</infon>
+        <location offset="2228" length="4"/>
+        <text>mice</text>
+      </annotation>
+      <annotation id="27">
+        <infon key="Identifier">*10090</infon>
+        <infon key="type">Species</infon>
+        <location offset="2359" length="4"/>
+        <text>mice</text>
+      </annotation>
+      <annotation id="28">
+        <infon key="Identifier">*10090</infon>
+        <infon key="type">Species</infon>
+        <location offset="2696" length="5"/>
+        <text>mouse</text>
+      </annotation>
+      <annotation id="29">
+        <infon key="Identifier">*9606</infon>
+        <infon key="type">Species</infon>
+        <location offset="2948" length="6"/>
+        <text>humans</text>
+      </annotation>
+      <annotation id="30">
+        <infon key="Identifier">*9606</infon>
+        <infon key="type">Cell</infon>
+        <location offset="513" length="7"/>
+        <text>ARPE-19</text>
+      </annotation>
+      <annotation id="31">
+        <infon key="Identifier">*9606</infon>
+        <infon key="type">Cell</infon>
+        <location offset="1909" length="7"/>
+        <text>ARPE-19</text>
+      </annotation>
+    </passage>
+  </document>
+  <document>
+    <id>17319906</id>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>A major role for Scar/WAVE-1 downstream of GPVI in platelets.</text>
+      <annotation id="0">
+        <infon key="type">Gene</infon>
+        <location offset="17" length="11"/>
+        <text>Scar/WAVE-1</text>
+      </annotation>
+      <annotation id="1">
+        <infon key="type">Gene</infon>
+        <location offset="43" length="4"/>
+        <text>GPVI</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>62</offset>
+      <text>BACKGROUND: The small GTPase Rac1 plays a critical role in lamellipodia assembly in platelets on matrix proteins in the absence or presence of G protein-coupled receptor (GPCR) agonists. Rac mediates actin assembly via Scar/WAVE, a family of scaffolding proteins that direct actin reorganization by relaying signals from Rac to the Arp2/3 complex. OBJECTIVE: To evaluate the role of Scar/WAVE-1 in mediating platelet activation and cytoskeletal reorganization. METHODS AND RESULTS: Using specific antibodies, we demonstrate that murine platelets, like human platelets, express Scar/WAVE-1 and Scar/WAVE-2. Lamellipodia formation in Scar/WAVE-1(-/-) platelets is markedly inhibited on immobilized collagen-related peptide (CRP) and on laminin, both of which signal through the collagen receptor GPVI. In contrast, lamellipodia formation on collagen, which requires release of the GPCR agonists ADP and thromboxane A(2), is not altered. Immobilized fibrinogen supports limited formation of lamellipodia in murine platelets, which is not altered in Scar/WAVE-1(-/-) platelets. As with Rac1(-/-) platelets, Scar/WAVE-1(-/-) platelets exhibit a marked inhibition of aggregation in response to CRP, whereas the response to the GPCR agonist thrombin is not altered. Platelet aggregation on immobilized collagen under shear, which is dependent on signaling by matrix and GPCR agonists, was unaltered in the absence of Scar/WAVE-1. CONCLUSION: This study demonstrates a major role for Scar/WAVE-1 in mediating platelet cytoskeletal reorganization and aggregate formation downstream of activation by GPVI but not by GPCR agonists.</text>
+      <annotation id="2">
+        <infon key="type">Gene</infon>
+        <location offset="78" length="12"/>
+        <text>small GTPase</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">Gene</infon>
+        <location offset="91" length="4"/>
+        <text>Rac1</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="type">FamilyName</infon>
+        <location offset="205" length="26"/>
+        <text>G protein-coupled receptor</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="type">FamilyName</infon>
+        <location offset="233" length="4"/>
+        <text>GPCR</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="type">Gene</infon>
+        <location offset="249" length="3"/>
+        <text>Rac</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="type">Gene</infon>
+        <location offset="281" length="9"/>
+        <text>Scar/WAVE</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="type">Gene</infon>
+        <location offset="383" length="3"/>
+        <text>Rac</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="type">Gene</infon>
+        <location offset="394" length="6"/>
+        <text>Arp2/3</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="type">Gene</infon>
+        <location offset="445" length="11"/>
+        <text>Scar/WAVE-1</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="type">Gene</infon>
+        <location offset="639" length="11"/>
+        <text>Scar/WAVE-1</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="type">Gene</infon>
+        <location offset="655" length="11"/>
+        <text>Scar/WAVE-2</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="type">Gene</infon>
+        <location offset="699" length="6"/>
+        <text>WAVE-1</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="type">Gene</infon>
+        <location offset="758" length="24"/>
+        <text>collagen-related peptide</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="type">Gene</infon>
+        <location offset="784" length="3"/>
+        <text>CRP</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="type">FamilyName</infon>
+        <location offset="838" length="17"/>
+        <text>collagen receptor</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="type">Gene</infon>
+        <location offset="856" length="4"/>
+        <text>GPVI</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="type">FamilyName</infon>
+        <location offset="941" length="4"/>
+        <text>GPCR</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="type">Gene</infon>
+        <location offset="1113" length="6"/>
+        <text>WAVE-1</text>
+      </annotation>
+      <annotation id="20">
+        <infon key="type">Gene</infon>
+        <location offset="1144" length="4"/>
+        <text>Rac1</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="type">Gene</infon>
+        <location offset="1170" length="6"/>
+        <text>WAVE-1</text>
+      </annotation>
+      <annotation id="22">
+        <infon key="type">Gene</infon>
+        <location offset="1250" length="3"/>
+        <text>CRP</text>
+      </annotation>
+      <annotation id="23">
+        <infon key="type">FamilyName</infon>
+        <location offset="1283" length="4"/>
+        <text>GPCR</text>
+      </annotation>
+      <annotation id="24">
+        <infon key="type">FamilyName</infon>
+        <location offset="1425" length="4"/>
+        <text>GPCR</text>
+      </annotation>
+      <annotation id="25">
+        <infon key="type">Gene</infon>
+        <location offset="1472" length="11"/>
+        <text>Scar/WAVE-1</text>
+      </annotation>
+      <annotation id="26">
+        <infon key="type">Gene</infon>
+        <location offset="1538" length="11"/>
+        <text>Scar/WAVE-1</text>
+      </annotation>
+      <annotation id="27">
+        <infon key="type">Gene</infon>
+        <location offset="1652" length="4"/>
+        <text>GPVI</text>
+      </annotation>
+      <annotation id="28">
+        <infon key="type">FamilyName</infon>
+        <location offset="1668" length="4"/>
+        <text>GPCR</text>
+      </annotation>
+      <annotation id="29">
+        <infon key="Identifier">*10090</infon>
+        <infon key="type">Species</infon>
+        <location offset="591" length="6"/>
+        <text>murine</text>
+      </annotation>
+      <annotation id="30">
+        <infon key="Identifier">*9606</infon>
+        <infon key="type">Species</infon>
+        <location offset="614" length="5"/>
+        <text>human</text>
+      </annotation>
+      <annotation id="31">
+        <infon key="Identifier">*10090</infon>
+        <infon key="type">Species</infon>
+        <location offset="1066" length="6"/>
+        <text>murine</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

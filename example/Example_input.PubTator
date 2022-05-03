@@ -1,0 +1,228 @@
+22495828|t|Knockdown of cathepsin B and uPAR inhibits CD151 and a3b1 integrin-mediated cell adhesion and invasion in glioma.
+22495828|a|Glioma is a highly complex brain tumor characterized by the dysregulation of proteins and genes that leads to tumor metastasis. Cathepsin B and uPAR are overexpressed in gliomas and they are postulated to play central roles in glioma metastasis. In this study, efficient downregulation of cathepsin B and uPAR by siRNA treatments significantly reduced glioma cell adhesion to laminin as compared to vitronectin, fibronectin, or collagen I in U251 and 4910 glioma cell lines. Brain glioma tissue array analysis showed high expression of CD151 in clinical samples when compared with normal brain tissue. Cathepsin B and uPAR siRNA treatment led to the downregulation of CD151 and laminin-binding integrins a3 and b1. Co-immunoprecipitation experiments revealed that downregulation of cathepsin B and uPAR decreased the interaction of CD151 with uPAR cathepsin B, and a3b1 integrin. Studies on the downstream signaling cascade of uPAR/CD151/a3b1 integrin have shown that phosphorylation of FAK, SRC, paxillin, and expression of adaptor cytoskeletal proteins talin and vinculin were reduced with knockdown of cathepsin B, uPAR, and CD151. Treatment with the bicistronic construct reduced interactions between uPAR and CD151 as well as lowering a3b1 integrin, talin, and vinculin expression levels in pre-established glioma tumors of nude mice. In conclusion, our results show that downregulation of cathepsin B and uPAR alone and in combination inhibit glioma cell adhesion by downregulating CD151 and its associated signaling molecules in vitro and in vivo. Taken together, the results of the present study show that targeting the uPAR-cathepsin B system has possible therapeutic potential.
+22495828	13	24	cathepsin B	Gene
+22495828	29	33	uPAR	Gene
+22495828	43	48	CD151	Gene
+22495828	54	57	3b1	Gene
+22495828	53	66	a3b1 integrin	Gene
+22495828	242	253	Cathepsin B	Gene
+22495828	258	262	uPAR	Gene
+22495828	403	414	cathepsin B	Gene
+22495828	419	423	uPAR	Gene
+22495828	513	524	vitronectin	Gene
+22495828	526	537	fibronectin	Gene
+22495828	650	655	CD151	Gene
+22495828	716	727	Cathepsin B	Gene
+22495828	732	736	uPAR	Gene
+22495828	782	787	CD151	Gene
+22495828	825	827	b1	Gene
+22495828	896	907	cathepsin B	Gene
+22495828	912	916	uPAR	Gene
+22495828	946	951	CD151	Gene
+22495828	962	973	cathepsin B	Gene
+22495828	979	983	a3b1	Gene
+22495828	1041	1045	uPAR	Gene
+22495828	1046	1056	CD151/a3b1	Gene
+22495828	1101	1104	FAK	Gene
+22495828	1106	1109	SRC	Gene
+22495828	1111	1119	paxillin	Gene
+22495828	1139	1168	adaptor cytoskeletal proteins	FamilyName
+22495828	1169	1174	talin	Gene
+22495828	1179	1187	vinculin	Gene
+22495828	1219	1230	cathepsin B	Gene
+22495828	1232	1236	uPAR	Gene
+22495828	1242	1247	CD151	Gene
+22495828	1319	1323	uPAR	Gene
+22495828	1328	1333	CD151	Gene
+22495828	1354	1367	a3b1 integrin	Gene
+22495828	1369	1374	talin	Gene
+22495828	1380	1388	vinculin	Gene
+22495828	1509	1520	cathepsin B	Gene
+22495828	1525	1529	uPAR	Gene
+22495828	1602	1607	CD151	Gene
+22495828	1742	1746	uPAR	Gene
+22495828	1747	1758	cathepsin B	Gene
+22495828	957	961	uPAR	Gene
+22495828	1443	1452	nude mice	Species	*10090
+22495828	556	560	U251	Cell	*9606
+
+23991091|t|MiR-155 has a protective role in the development of non-alcoholic hepatosteatosis in mice.
+23991091|a|Hepatic steatosis is a global epidemic that is thought to contribute to the pathogenesis of type 2 diabetes. MicroRNAs (miRs) are regulators that can functionally integrate a range of metabolic and inflammatory pathways in liver. We aimed to investigate the functional role of miR-155 in hepatic steatosis. Male C57BL/6 wild-type (WT) and miR-155(-/-) mice were fed either normal chow or high fat diet (HFD) for 6 months then lipid levels, metabolic and inflammatory parameters were assessed in livers and serum of the mice. Mice lacking endogenous miR-155 that were fed HFD for 6 months developed increased hepatic steatosis compared to WT controls. This was associated with increased liver weight and serum VLDL/LDL cholesterol and alanine transaminase (ALT) levels, as well as increased hepatic expression of genes involved in glucose regulation (Pck1, Cebpa), fatty acid uptake (Cd36) and lipid metabolism (Fasn, Fabp4, Lpl, Abcd2, Pla2g7). Using miRNA target prediction algorithms and the microarray transcriptomic profile of miR-155(-/-) livers, we identified and validated that Nr1h3 (LXRa) as a direct miR-155 target gene that is potentially responsible for the liver phenotype of miR-155(-/-) mice. Together these data indicate that miR-155 plays a pivotal role regulating lipid metabolism in liver and that its deregulation may lead to hepatic steatosis in patients with diabetes.
+23991091	0	7	MiR-155	Gene
+23991091	85	89	mice	Species	*10090
+23991091	368	375	miR-155	Gene
+23991091	430	437	miR-155	Gene
+23991091	640	647	miR-155	Gene
+23991091	800	804	VLDL	Gene
+23991091	805	808	LDL	FamilyName
+23991091	825	845	alanine transaminase	Gene
+23991091	847	850	ALT	Gene
+23991091	941	945	Pck1	Gene
+23991091	947	952	Cebpa	Gene
+23991091	974	978	Cd36	Gene
+23991091	1002	1006	Fasn	Gene
+23991091	1008	1013	Fabp4	Gene
+23991091	1015	1018	Lpl	Gene
+23991091	1020	1025	Abcd2	Gene
+23991091	1027	1033	Pla2g7	Gene
+23991091	1122	1129	miR-155	Gene
+23991091	1176	1181	Nr1h3	Gene
+23991091	1183	1187	LXRa	Gene
+23991091	1201	1208	miR-155	Gene
+23991091	1280	1287	miR-155	Gene
+23991091	1333	1340	miR-155	Gene
+23991091	443	447	mice	Species	*10090
+23991091	610	614	mice	Species	*10090
+23991091	616	620	Mice	Species	*10090
+23991091	974	978	Cd36	Species	*42374
+23991091	1293	1297	mice	Species	*10090
+23991091	1458	1466	patients	Species	*9606
+
+26590805|t|A-kinase anchor protein 4 (AKAP4) a promising therapeutic target of colorectal cancer.
+26590805|a|BACKGROUND: Colorectal cancer (CRC) ranks third among the estimated cancer cases and cancer related mortalities in the Western world. Early detection and efficient therapy of CRC remains a major health challenge. Therefore, there is a need to identify novel tumor markers for early diagnosis and treatment of CRC. METHODS: A-kinase anchor protein 4 (AKAP4) gene and protein expression was monitored by quantitative polymerase chain reaction (qPCR), reverse transcription (RT)-PCR and Western blotting in normal colon tissue lysate, normal colon epithelial cells and in colon cancer cell lines viz., Caco-2, COLO205, COLO320DM, HCT-15, HCT116, HT-29, SW480, and SW620. The effect of AKAP4 on cellular growth, migration and invasion abilities was studied using gene silencing approach. The role of AKAP4 in various pathways involved in cell cycle, apoptosis, senescence was investigated in in vitro and in human xenograft mouse model. RESULTS: Our studies showed that AKAP4 gene and protein expression was expressed in all colon cancer cells while no expression was detectable in normal colon cells. Ablation of AKAP4 led to reduced cellular growth, migration, invasion and increased apoptosis and senescence of CRC cells in in vitro assays and tumor growth in human xenograft mouse. Human colon xenograft studies showed a significant decrease in the levels of cyclins B1, D and E and cyclin dependent kinases such as CDK1, CDK2, CDK4 and CDK6. Interestingly, an up-regulation in the levels of p16 and p21 was also observed. Besides, an increase in the levels of pro-apoptotic molecules AIF, APAF1, BAD, BID, BAK, BAX, PARP1, NOXA, PUMA and cyt-C and Caspase 3, 7, 8 and 9 was also found in cancer cells as well as in xenograft tissue sections. However, anti-apoptotic molecules BCL2, Bcl-xL, cIAP2, XIAP, Axin2 and Survivin were down regulated in these samples. Our data also revealed elevated expression of epithelial marker E-cadherin and down regulation of EMT markers N-cadherin, P-cadherin, SLUG, a-SMA, SNAIL, TWIST and Vimentin. Further ablation of AKAP4 resulted in the down regulation of invasion molecules matrix metalloproteinase MMP2, MMP3 and MMP9. CONCLUSION: AKAP4 appears to be a novel CRC-associated antigen with a potential for developing as a new clinical therapeutic target.
+26590805	0	25	A-kinase anchor protein 4	Gene
+26590805	27	32	AKAP4	Gene
+26590805	410	435	A-kinase anchor protein 4	Gene
+26590805	437	442	AKAP4	Gene
+26590805	694	701	COLO205	Gene
+26590805	703	712	COLO320DM	Gene
+26590805	748	753	SW620	Gene
+26590805	769	774	AKAP4	Gene
+26590805	883	888	AKAP4	Gene
+26590805	1053	1058	AKAP4	Gene
+26590805	1197	1202	AKAP4	Gene
+26590805	1446	1465	cyclins B1, D and E	Gene
+26590805	1470	1494	cyclin dependent kinases	FamilyName
+26590805	1503	1507	CDK1	Gene
+26590805	1509	1513	CDK2	Gene
+26590805	1515	1519	CDK4	Gene
+26590805	1524	1528	CDK6	Gene
+26590805	1579	1582	p16	Gene
+26590805	1587	1590	p21	Gene
+26590805	1672	1675	AIF	Gene
+26590805	1677	1682	APAF1	Gene
+26590805	1684	1687	BAD	Gene
+26590805	1689	1692	BID	Gene
+26590805	1694	1697	BAK	Gene
+26590805	1699	1702	BAX	Gene
+26590805	1704	1709	PARP1	Gene
+26590805	1711	1715	NOXA	Gene
+26590805	1717	1721	PUMA	Gene
+26590805	1726	1731	cyt-C	Gene
+26590805	1736	1757	Caspase 3, 7, 8 and 9	Gene
+26590805	1864	1868	BCL2	Gene
+26590805	1870	1876	Bcl-xL	Gene
+26590805	1878	1883	cIAP2	Gene
+26590805	1885	1889	XIAP	Gene
+26590805	1891	1896	Axin2	Gene
+26590805	1901	1909	Survivin	Gene
+26590805	2012	2022	E-cadherin	Gene
+26590805	2058	2068	N-cadherin	Gene
+26590805	2070	2080	P-cadherin	Gene
+26590805	2082	2086	SLUG	Gene
+26590805	2088	2093	a-SMA	Gene
+26590805	2095	2100	SNAIL	Gene
+26590805	2102	2107	TWIST	Gene
+26590805	2112	2120	Vimentin	Gene
+26590805	2142	2147	AKAP4	Gene
+26590805	2202	2226	matrix metalloproteinase	FamilyName
+26590805	2227	2231	MMP2	Gene
+26590805	2233	2237	MMP3	Gene
+26590805	2242	2246	MMP9	Gene
+26590805	2260	2265	AKAP4	Gene
+26590805	2288	2291	CRC	FamilyName
+26590805	737	742	SW480	Gene
+26590805	1297	1300	CRC	FamilyName
+26590805	396	399	CRC	FamilyName
+26590805	262	265	CRC	FamilyName
+26590805	118	121	CRC	FamilyName
+26590805	991	996	human	Species	*9606
+26590805	1007	1012	mouse	Species	*10090
+26590805	1346	1351	human	Species	*9606
+26590805	1362	1367	mouse	Species	*10090
+26590805	1369	1374	Human	Species	*9606
+
+23374751|t|MyD88 is crucial for the development of a protective CNS immune response to Toxoplasma gondii infection.
+23374751|a|BACKGROUND: Toxoplasmosis is one of the most common parasitic infections in humans. It can establish chronic infection and is characterized by the formation of tissue cysts in the brain. The cysts remain largely quiescent for the life of the host, but can reactivate and cause life-threatening toxoplasmic encephalitis in immunocompromised patients, such as those with AIDS, neoplastic diseases and organ transplants. Toll-like receptor (TLR) adaptor MyD88 activation is required for the innate sensing of Toxoplasma gondii. Mice deficient in MyD88 have defective IL-12 and Th1 effector responses, and are highly susceptible to the acute phase of T. gondii infection. However, the role of this signaling pathway during cerebral infection is poorly understood and requires examination. METHOD: MyD88-deficient mice and control mice were orally infected with T. gondii cysts. Cellular and parasite infiltration in the peripheral organs and in the brain were determined by histology and immunohistochemistry. Cytokine levels were determined by ELISA and chemokine mRNA levels were quantified by real-time PCR (qPCR). RESULTS: Thirteen days after infection, a higher parasite burden was observed but there was no histological change in the liver, heart, lungs and small intestine of MyD88-/- and MyD88+/+ mice. However, MyD88-/- mice compared to MyD88+/+ mice were highly susceptible to cerebral infection, displayed high parasite migration to the brain, severe neuropathological signs of encephalitis and succumbed within 2 weeks of oral infection. Susceptibility was primarily associated with lower expression of Th1 cytokines, especially IL-12, IFN-g and TNF-a, significant decrease in the expression of CCL3, CCL5, CCL7 and CCL19 chemokines, marked defect of CD8+ T cells, and infiltration of CD11b+ and F4/80+ cells in the brain. CONCLUSION: MyD88 is essential for the protection of mice during the cerebral installation of T. gondii infection. These results establish a role for MyD88 in T cell-mediated control of T. gondii in the central nervous system (CNS).
+23374751	0	5	MyD88	Gene
+23374751	76	93	Toxoplasma gondii	Species	*5811
+23374751	523	541	Toll-like receptor	FamilyName
+23374751	543	546	TLR	FamilyName
+23374751	556	561	MyD88	Gene
+23374751	648	653	MyD88	Gene
+23374751	669	674	IL-12	FamilyName
+23374751	898	903	MyD88	Gene
+23374751	1384	1389	MyD88	Gene
+23374751	1397	1402	MyD88	Gene
+23374751	1421	1426	MyD88	Gene
+23374751	1447	1452	MyD88	Gene
+23374751	1720	1729	cytokines	FamilyName
+23374751	1742	1747	IL-12	FamilyName
+23374751	1749	1754	IFN-g	Gene
+23374751	1759	1764	TNF-a	Gene
+23374751	1808	1812	CCL3	Gene
+23374751	1814	1818	CCL5	Gene
+23374751	1820	1824	CCL7	Gene
+23374751	1829	1834	CCL19	Gene
+23374751	1864	1867	CD8	FamilyName
+23374751	1898	1903	CD11b	Gene
+23374751	1909	1914	F4/80	Gene
+23374751	1948	1953	MyD88	Gene
+23374751	2086	2091	MyD88	Gene
+23374751	1111	1119	Cytokine	FamilyName
+23374751	181	187	humans	Species	*9606
+23374751	445	453	patients	Species	*9606
+23374751	611	628	Toxoplasma gondii	Species	*5811
+23374751	630	634	Mice	Species	*10090
+23374751	752	761	T. gondii	Species	*5811
+23374751	914	918	mice	Species	*10090
+23374751	931	935	mice	Species	*10090
+23374751	962	971	T. gondii	Species	*5811
+23374751	1406	1410	mice	Species	*10090
+23374751	1430	1434	mice	Species	*10090
+23374751	1456	1460	mice	Species	*10090
+23374751	1989	1993	mice	Species	*10090
+23374751	2030	2039	T. gondii	Species	*5811
+23374751	2122	2131	T. gondii	Species	*5811
+23374751	1898	1902	CD11	Cell	*9606
+23374751	1909	1914	F4/80	Cell	*10090
+
+26971998|t|The Innate Immune Receptor NLRX1 Functions as a Tumor Suppressor by Reducing Colon Tumorigenesis and Key Tumor-Promoting Signals.
+26971998|a|NOD-like receptor (NLR) proteins are intracellular innate immune sensors/receptors that regulate immunity. This work shows that NLRX1 serves as a tumor suppressor in colitis-associated cancer (CAC) and sporadic colon cancer by keeping key tumor promoting pathways in check. Nlrx1(-/-) mice were highly susceptible to CAC, showing increases in key cancer-promoting pathways including nuclear factor kB (NF-kB), mitogen-activated protein kinase (MAPK), signal transducer and activator of transcription 3 (STAT3), and interleukin 6 (IL-6). The tumor-suppressive function of NLRX1 originated primarily from the non-hematopoietic compartment. This prompted an analysis of NLRX1 function in the Apc(min/+) genetic model of sporadic gastrointestinal cancer. NLRX1 attenuated Apc(min/+) colon tumorigenesis, cellular proliferation, NF-kB, MAPK, STAT3 activation, and IL-6 levels. Application of anti-interleukin 6 receptor (IL6R) antibody therapy reduced tumor burden, increased survival, and reduced STAT3 activation in Nlrx1(-/-)Apc(min/+) mice. As an important clinical correlate, human colon cancer samples expressed lower levels of NLRX1 than healthy controls in multiple patient cohorts. These data implicate anti-IL6R as a potential personalized therapy for colon cancers with reduced NLRX1.
+26971998	27	32	NLRX1	Gene
+26971998	48	64	Tumor Suppressor	FamilyName
+26971998	4	26	Innate Immune Receptor	FamilyName
+26971998	130	147	NOD-like receptor	FamilyName
+26971998	149	152	NLR	FamilyName
+26971998	258	263	NLRX1	Gene
+26971998	404	409	Nlrx1	Gene
+26971998	513	530	nuclear factor kB	Gene
+26971998	532	537	NF-kB	Gene
+26971998	540	572	mitogen-activated protein kinase	Gene
+26971998	574	578	MAPK	Gene
+26971998	581	631	signal transducer and activator of transcription 3	Gene
+26971998	633	638	STAT3	Gene
+26971998	645	658	interleukin 6	Gene
+26971998	660	664	IL-6	Gene
+26971998	701	706	NLRX1	Gene
+26971998	797	802	NLRX1	Gene
+26971998	819	822	Apc	Gene
+26971998	881	886	NLRX1	Gene
+26971998	898	901	Apc	Gene
+26971998	954	959	NF-kB	Gene
+26971998	961	965	MAPK	Gene
+26971998	967	972	STAT3	Gene
+26971998	989	993	IL-6	Gene
+26971998	1017	1044	anti-interleukin 6 receptor	Gene
+26971998	1046	1050	IL6R	Gene
+26971998	1123	1128	STAT3	Gene
+26971998	1143	1148	Nlrx1	Gene
+26971998	1153	1156	Apc	Gene
+26971998	1259	1264	NLRX1	Gene
+26971998	1342	1346	IL6R	Gene
+26971998	1414	1419	NLRX1	Gene
+26971998	276	292	tumor suppressor	FamilyName
+26971998	415	419	mice	Species	*10090
+26971998	1164	1168	mice	Species	*10090
+26971998	1206	1211	human	Species	*9606
+26971998	1299	1306	patient	Species	*9606
