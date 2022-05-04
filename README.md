@@ -78,7 +78,7 @@ Once the training step is finished, the trained model (e.g., *SpeAss-Bioformer-S
 
 ## Species recogntion
 
-We also generated a dictionary-based species tagger that can better handle the enormous size of the species lexicon, based on the hierarchical structure of the taxonomy system. More specifically, our species tagger was implemented by adopting a prefix tree to reorganize the species names within a highly efficient structure for a string search. The species recognition agorithm has been embedded in GNormPlus (https://www.ncbi.nlm.nih.gov/CBBresearch/Lu/Demo/tmTools/download/GNormPlus/GNormPlusJava.zip). Users can follow the instruction to recognize the species entities by the species assignment module. 
+We also generated a dictionary-based species tagger that can better handle the enormous size of the species lexicon, based on the hierarchical structure of the taxonomy system. More specifically, our species tagger was implemented by adopting a prefix tree to reorganize the species names within a highly efficient structure for a string search. The species recognition agorithm has been embedded in [GNormPlus](https://www.ncbi.nlm.nih.gov/CBBresearch/Lu/Demo/tmTools/download/GNormPlus/GNormPlusJava.zip). Users can follow the instruction to recognize the species entities by the species assignment module. 
 
 ## Acknowledgments
 This research was supported by the Intramural Research Program of the National Library of Medicine (NLM), National Institutes of Health.
