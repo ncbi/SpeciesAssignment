@@ -76,6 +76,8 @@ Run Example:
 
 Once the training step is finished, the trained model (e.g., *SpeAss-Bioformer-SG-ES-new.h5*) will be automatically generated in the output folder. If the development set is provided, two individual trained models (*SpeAss-Bioformer-SG-ES-new.h5*: stopped by the loss of training set; *SpeAss-Bioformer-SG-BEST-new.h5*:stopped by the performance on the dev set) will be generated in the output folder.
 
+For parameter setting, we used PubmedBERT/Bioformer with the default parameter settings and set the other hyper-parameters as follows: learning rate of 5e-6, batch size of 16. The number of training epochs was chosen by the early stopping strategy, according to the training loss score (100 epochs at most). 
+
 ## Species recognition
 
 We also generated a dictionary-based species tagger that can better handle the enormous size of the species lexicon, based on the hierarchical structure of the taxonomy system. More specifically, our species tagger was implemented by adopting a prefix tree to reorganize the species names within a highly efficient structure for a string search. The species recognition agorithm has been embedded in [GNormPlus](https://www.ncbi.nlm.nih.gov/CBBresearch/Lu/Demo/tmTools/download/GNormPlus/GNormPlusJava.zip). Users can follow the instruction to recognize the species entities by the species recognition module. 
