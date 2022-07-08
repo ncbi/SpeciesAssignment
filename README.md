@@ -74,9 +74,9 @@ Run Example:
 
     $ python Model_Training.py -t ../data/SpeAss_Train_token_nonest.conll -m bioformer -o ../models/
 
-Once the training step is finished, the trained model (e.g., *SpeAss-Bioformer-SG-ES-new.h5*) will be automatically generated in the output folder. If the development set is provided, two individual trained models (*SpeAss-Bioformer-SG-ES-new.h5*: stopped by the loss of training set; *SpeAss-Bioformer-SG-BEST-new.h5*:stopped by the performance on the dev set) will be generated in the output folder.
+Once the training step is finished, the trained model (default: SpeAss-Bioformer-SG-ES-new.h5) with the lowest loss on training set will be automatically generated in the output folder. If the development set is provided, one more model (default: SpeAss-Bioformer-SG-BEST-new.h5) with the highest performance on the development set will be generated in the output folder.
 
-For parameter setting, we used PubmedBERT/Bioformer with the default parameter settings and set the other hyper-parameters as follows: learning rate of 5e-6, batch size of 16. The number of training epochs was chosen by the early stopping strategy, according to the training loss score (100 epochs at most). 
+We used the default parameter settings for PubmedBERT/Bioformer and optimized the hyper-parameters as follows: learning rate of 5e-6, batch size of 16. The number of training epochs was chosen by the early stopping strategy, according to the training loss score (100 epochs at most).
 
 ## Species recognition
 
