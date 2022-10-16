@@ -2,7 +2,8 @@
 ***
 This repository contains the source code and dataset for Species Assignment.
 
-Species assignment is the task of identifying the corresponding species of the gene mentions, which is one of the most important steps of gene name normalization. The task of recognizing the corresponding species from various candidates for gene mentions is more relevant to information-retrieval or relation-extraction tasks, but we rephrased the problem into a sequence-labeling task, which is normally applied to a named-entity recognition task. The new method raised the performance accuracy of the species assignment (from 65.8% to 81.3%) within an acceptable process speed for large-scale data processing.
+Species assignment is the task of identifying the corresponding species of the gene mentions, which is one of the most important steps of gene name normalization. The task of recognizing the corresponding species from various candidates for gene mentions is more relevant to information-retrieval or relation-extraction tasks, but we rephrased the problem into a sequence-labeling task, which is normally applied to a named-entity recognition task. The new method raised the performance accuracy of the species assignment (from 65.8% to 81.3%) within an acceptable process speed for large-scale data processing. Please refer to our paper for more details:
+- [Ling Luo, Chih-Hsuan Wei, Po-Ting Lai, Qingyu Chen, Rezarta Islamaj, Zhiyong Lu, Assigning species information to corresponding genes by a sequence labeling framework, Database, Volume 2022, 2022, baac090.](https://doi.org/10.1093/database/baac090)
 
 
 ## Content
